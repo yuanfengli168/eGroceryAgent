@@ -82,6 +82,16 @@ Trigger: a natural-language message like _"toilet paper almost finished"_.
 - Manual (user says "x is running out") only?
 - Or also periodic polling: "based on your last 3 purchases of toilet paper, you're due for more in ~5 days"?
 
+**Decision: don't scrape on a schedule in MVP.** SKU-level prices in Singapore grocery are sticky — most products hold the same price for weeks. Daily scraping is wasted work. Triggers that actually matter:
+
+1. **On-demand** — user says "x is running out" → check now. This is the 90% case.
+2. **Cache hit** — if a price was checked < 48h ago for the same SKU, reuse it. Cold path becomes 1 scrape per SKU per week.
+3. **Weekly digest** (opt-in, later) — Sunday evening scan of next week's promos.
+4. **Watchlist threshold** (later) — "tell me when toilet paper drops below $10."
+5. **Known sale event** (later) — small calendar of recurring sales (FairPrice members' sale, GSS, brand days); scrape watchlisted SKUs the day before.
+
+This means no cron scheduler is required for the basic case. Sale-event handling is a separate opt-in feature, and even that is calendar-driven, not polling-driven.
+
 ### 3.6 Platforms to compare
 
 | Platform     | Owner         | Status                    |
@@ -101,6 +111,8 @@ Trigger: a natural-language message like _"toilet paper almost finished"_.
 - Identified `realdataapi.com` as a third-party paid option. **Rejected** — overkill, ToS concerns, no real benefit over a small self-hosted scraper.
 - Identified `actowizsolutions.com` as a B2B scraping service. **Rejected** — enterprise pricing, aggressive scraping techniques (CAPTCHA solvers, proxy rotation) that will get blocked, no self-serve API, fake SKUs in their sample data.
 - Pattern: both sites are SEO landing pages from scraping-service companies ranking for "FairPrice scraper" / "RedMart API" queries. Useful as competitive signal, useless as building blocks.
+- Considered using an LLM-driven browser tool (Browser-Use, Computer Use) instead of scraping. **Rejected as the primary approach.** Browser tools are slow (5-15s), expensive (~$0.02/page in tokens), non-deterministic, and produce free-text output that needs re-parsing. They are good fallbacks for hard cases (CAPTCHA, layout changes), not the workhorse. The agent orchestrates, the scraper fetches.
+- Considered scraping on a daily schedule. **Rejected.** SKU-level grocery prices in Singapore are sticky (weeks-to-months per price point). Daily scraping is wasted work. The 90% case is on-demand: user says "x is running out" → check now, with a short cache (e.g. 48h) to absorb bursts.
 - Decision: Apache 2.0 license, open source, standalone repo at `eGroceryAgent`.
 
 ---
@@ -115,6 +127,8 @@ Trigger: a natural-language message like _"toilet paper almost finished"_.
 | 4 | Compare with Cold Storage / Sheng Siong | 2026-06-17 | ⏳ stretch |
 | 5 | Reject `actowizsolutions.com`          | 2026-06-17 | ✅ confirmed |
 | 6 | Standalone repo: `eGroceryAgent`      | 2026-06-17 | ✅ confirmed |
+| 7 | Don't scrape on a schedule (MVP)      | 2026-06-17 | ✅ confirmed |
+| 8 | On-demand + cache-first architecture  | 2026-06-17 | ✅ confirmed |
 
 ---
 
