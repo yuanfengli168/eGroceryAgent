@@ -1,0 +1,51 @@
+# search_term	slug	name
+Chips	https://www.fairprice.com.sg/product/pringles-p-crisps-original-42g-12713751	Pringles Potato Crisps - Original
+Chips	https://www.fairprice.com.sg/product/cheezel-original-cheese-snack-multi-pack-8s-x-120g-13052764	Cheezels Cheese Rings Snack - Original (Multipack)
+Chips	https://www.fairprice.com.sg/product/pringles-potato-crisps-sour-cream-onion-150g-12387644	Pringles Potato Crisps - Sour Cream & Onion
+Chips	https://www.fairprice.com.sg/product/pringles-p-crisps-sour-crm-on-42g-12713750	Pringles Potato Crisps - Sour Cream & Onion
+Chips	https://www.fairprice.com.sg/product/doritos-tortilla-chips-nacho-cheese-190g-10729188	Doritos Tortilla Chips - Nacho Cheese
+Coca-Cola	https://www.fairprice.com.sg/product/coca-cola-can-drink-zero-sugar-24-x-320ml-13280143	Coca-Cola Can Drink - Zero Sugar
+Coca-Cola	https://www.fairprice.com.sg/product/coca-cola-original-taste-less-sugar-24-x-320ml-13241340	Coca-Cola Original Taste - Less Sugar
+Coca-Cola	https://www.fairprice.com.sg/product/coca-cola-can-drink-zero-sugar-12-x-320ml-ctn-13083570	Coca-Cola Can Drink - Zero Sugar
+Coca-Cola	https://www.fairprice.com.sg/product/coca-cola-original-taste-less-sugar-12-x-320ml-13179229	Coca-Cola Original Taste - Less Sugar
+Coca-Cola	https://www.fairprice.com.sg/product/coca-cola-can-drink-light-case-12-x-320ml-13083572	Coca-Cola Can Drink - Light (Case)
+Colgate	https://www.fairprice.com.sg/product/darlie-double-action-toothpaste-fresh-clean-quby-jar-3-x-250g-13287820	Darlie Double Action Toothpaste - Fresh & Clean + Quby Jar
+Colgate	https://www.fairprice.com.sg/product/colgate-triple-action-toothpaste---original-mint-13164012	Colgate Triple Action Toothpaste - Original Mint
+Colgate	https://www.fairprice.com.sg/product/colgate-total-toothpaste-whitening-4-x-150g-13197740	Colgate Total Toothpaste - Whitening
+Colgate	https://www.fairprice.com.sg/product/darlie-double-action-toothpaste-fresh-protect-quby-jar-3-x-160g-13287804	Darlie Double Action Toothpaste - Fresh Protect + Quby Jar
+Colgate	https://www.fairprice.com.sg/product/colgate-anticavity-toothpaste-regular-250g-479552	Colgate Maximum Cavity Protect Toothpaste - Great Regular
+Kleenex	https://www.fairprice.com.sg/product/kleenex-ultra-soft-toilet-tissue-roll-cottonyclean-20-x-200-per-pack-13199730	Kleenex Toilet Tissue Rolls - Ultra Soft 
+Kleenex	https://www.fairprice.com.sg/product/kleenex-ultrasoft-3ply-vin-facial-tissue-5pk-x-100s-13017673	Kleenex Facial Tissue Box - Lifestyle (3ply)
+Kleenex	https://www.fairprice.com.sg/product/kleenex-ultrasoft-3ply-facial-tissue-floral-5x100s-12208562	Kleenex Facial Tissue Box - Floral (3ply)
+Kleenex	https://www.fairprice.com.sg/product/kleenex-toilet-tissue-roll-ultra-soft-cottony-clean-30-x-200-per-pack-13217594	Kleenex Toilet Tissue Roll - Ultra Soft Cottony Clean
+Kleenex	https://www.fairprice.com.sg/product/kleenex-toilet-tissue-rolls-ultra-soft-3-ply-20-x-200-per-pack-13093697	Kleenex Toilet Tissue Rolls - Ultra Soft (3 ply)
+Listerine	https://www.fairprice.com.sg/product/listerine-mouthwash-cool-mint-2-x-1l-13248155	Listerine Mouthwash - Cool Mint
+Listerine	https://www.fairprice.com.sg/product/listerine-mouthwash-cool-mint-1l-13016681	Listerine Mouthwash - Cool Mint
+Listerine	https://www.fairprice.com.sg/product/listerine-antiseptic-mouthwash-total-care-1lt-13017871	Listerine Mouthwash - Total Care
+Listerine	https://www.fairprice.com.sg/product/listerine-zero-mouthwash-1lt-13084932	Listerine Zero Alcohol Mouthwash - Cool Mint
+Listerine	https://www.fairprice.com.sg/product/listerine-zero-alcohol-mouthwash-total-care-1l-13092357	Listerine Zero Alcohol Mouthwash - Total Care
+Maggi	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-curry-5-x-79g-13039423	Maggi 2-Minute Instant Noodles - Curry
+Maggi	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-chicken-5s-x-77g-13039421	Maggi 2-Minute Instant Noodles - Chicken
+Maggi	https://www.fairprice.com.sg/product/maggi-2-min-big-noodles-curry-5s-x-111g-13064199	Maggi Big 2-Minute Instant Noodles - Curry
+Maggi	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-asam-laksa-5s-x-78g-13039422	Maggi 2-Minute Instant Noodles - Asam Laksa
+Maggi	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-kari-letup-5s-x-79g-13012301	Maggi 2-Minute Instant Noodles - Kari Letup
+Nescafe	https://www.fairprice.com.sg/product/nescafe-3-in-1-instant-coffee-original-30-x-16-5g-13039640	Nescafe 3 in 1 Instant Coffee - Original
+Nescafe	https://www.fairprice.com.sg/product/13151864	Nescafe Gold Original
+Nescafe	https://www.fairprice.com.sg/product/nescafe-25-less-sugar-3in1-35s-instant-coffee-13081879	Nescafe 3 in 1 Instant Coffee - Original (Less Sugar)
+Nescafe	https://www.fairprice.com.sg/product/nescafe-classic-instant-coffee-arabica-bean-200g-10626699	Nescafe Instant Soluble Coffee Jar - Classic
+Nescafe	https://www.fairprice.com.sg/product/nescafe-ipoh-white-coffee-gao-siew-dai-15s-x-31g-13083149	Nescafe Instant Ipoh White Coffee - Gao Siew Dai
+Pantene	https://www.fairprice.com.sg/product/pantene-shampoo-silky-smooth-care-680ml-13194386	Pantene Shampoo - Silky Smooth Care
+Pantene	https://www.fairprice.com.sg/product/pantene-shampoo-hair-fall-control-680ml-13194383	Pantene Shampoo - Hair Fall Control
+Pantene	https://www.fairprice.com.sg/product/pantene-shampoo-daily-moisture-renewal-680ml-13194445	Pantene Shampoo - Daily Moisture Renewal
+Pantene	https://www.fairprice.com.sg/product/pantene-conditioner-silky-smooth-care-680ml-13194421	Pantene Conditioner - Silky Smooth Care
+Pantene	https://www.fairprice.com.sg/product/pantene-conditioner-hair-fall-control-680ml-13194385	Pantene Conditioner - Hair Fall Control
+Paseo	https://www.fairprice.com.sg/product/paseo-bathroom-tissue-roll-4-ply-10-x-200-per-pack-13172131	Paseo Bathroom Tissue Roll - 4 Ply
+Paseo	https://www.fairprice.com.sg/product/paseo-bathroom-tissue-roll-4-ply-30-x-200-per-pack-13207936	Paseo Bathroom Tissue Roll - 4 Ply
+Paseo	https://www.fairprice.com.sg/product/paseo-bathroom-tissue-rolls-3-ply-20-x-200-per-pack-13264467	Paseo Bathroom Tissue Rolls - 3 ply
+Paseo	https://www.fairprice.com.sg/product/paseo-limited-editon-soft-facial-tissue-pack-3-ply-4-x-120-per-pack-13187024	Paseo Limited Edition Soft Facial Tissue Pack - 3 Ply
+Paseo	https://www.fairprice.com.sg/product/paseo-bathroom-toilet-roll-sensitive-skin-10-x-200-per-pack-13175009	Paseo Bathroom Toilet Roll - Sensitive Skin
+Pursoft	https://www.fairprice.com.sg/product/pursoft-tissue-soft-pack-outdoor-3-ply-4-x-120-per-pack-13099154	PurSoft Tissue Soft Pack - Outdoor (3 ply)
+Pursoft	https://www.fairprice.com.sg/product/pursoft-100-virgin-pulp-unscented-bathroom-tissue-4ply-24-per-pack-13149822	Pursoft 100% Virgin Pulp Unscented Bathroom Tissue - 4Ply
+Pursoft	https://www.fairprice.com.sg/product/pursoft-kitchen-towel-soft-pack-1-ply-200-per-pack-13146590	PurSoft Kitchen Towel Soft Pack (1 ply)
+Pursoft	https://www.fairprice.com.sg/product/pursoft-facial-tissue-soft-pack-3-ply-4-x-120-per-pack-13183734	PurSoft Facial Tissue Soft Pack (3 ply)
+Pursoft	https://www.fairprice.com.sg/product/pursoft-bathroom-tissue-roll-unscented-4-ply-10-x-200-per-pack-13082270	PurSoft Bathroom Tissue Roll - Unscented (4-Ply)
