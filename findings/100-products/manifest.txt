@@ -1,0 +1,101 @@
+# category	search_term	slug	name
+dairy	beverages	https://www.fairprice.com.sg/product/milo-chocolate-malt-milk-uht-packet-drink-24-x-200ml-ctn-12700043	Milo Chocolate Malt Milk UHT Packet Drink
+dairy	beverages	https://www.fairprice.com.sg/product/milo-chocolate-malt-milk-uht-packet-drink-less-sugar-24-x-200ml-ctn-12708770	Milo Chocolate Malt Milk UHT Packet Drink -Less Sugar
+dairy	biscuits	https://www.fairprice.com.sg/product/julie-s-sandwich-biscuits-peanut-butter-360g-12-per-pack-12083675	Julie's Sandwich Biscuits - Peanut Butter
+dairy	biscuits	https://www.fairprice.com.sg/product/julies-cracker-butter-250g-12080992	Julie's Crackers - Butter
+dairy	biscuits	https://www.fairprice.com.sg/product/ritz-sandwich-biscuits-multipack-cheese-cream-243g-13160723	Ritz Sandwich Biscuits Multipack - Cheese Cream
+dairy	biscuits	https://www.fairprice.com.sg/product/julie-s-sandwich-biscuits-cheese-336g-12-per-pack-12021917	Julie's Sandwich Biscuits - Cheese
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-enriched-white-bread-600g-10099606	Gardenia Enriched White Bread
+dairy	bread	https://www.fairprice.com.sg/product/sunshine-hokkaido-milk-toast-bread-400g-10983506	Sunshine Hokkaido Milk Toast Bread
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-enriched-white-bread-400g-93964	Gardenia Enriched White Bread
+dairy	bread	https://www.fairprice.com.sg/product/super-soft---fine-enriched-wholemeal-white-bread--13074362	Gardenia 100% Wholemeal Bread -  Extra Soft & Fine
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-fine-grain-wholemeal-bread-420g-93980	Gardenia Wholemeal Bread - Fine Grain
+dairy	bread	https://www.fairprice.com.sg/product/sunshine-wholemeal-bread---ultra-fine-13110179	Sunshine Wholemeal Bread - Ultra Fine
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-wholemeal-extra-soft-fine-bread-600g-13196447	Gardenia Wholemeal Extra Soft & Fine Bread
+dairy	bread	https://www.fairprice.com.sg/product/10470049	Gardenia Loaf - California Raisin
+dairy	bread	https://www.fairprice.com.sg/product/13045385	Sunshine Bread - Jumbo Pack Enriched Soft White
+dairy	bread	https://www.fairprice.com.sg/product/sunshine-dark-rye-komugi-loaf-400g-13270761	Sunshine Loaf Bread - Dark Rye Komugi
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-hokkaido-hi-calcium-milk-bread-400g-13069839	Gardenia Hokkaido Hi-Calcium Milk Bread
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-enriched-wholemeal-white-bread-400g-12686775	Gardenia Enriched White Bread - Wholemeal
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-low-gi-bread---soft-grain-13131137	Gardenia Low GI Bread - Soft Grain
+dairy	bread	https://www.fairprice.com.sg/product/13067118	Gardenia White Bread - Wholemeal (Super Soft & Fine)
+dairy	bread	https://www.fairprice.com.sg/product/sunshine-smart-carb-low-gi-bread-360g-13083462	Sunshine Smart Carb Bread - Low G.I
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-loaf-brioche-380g-13271382	Gardenia Loaf - Brioche
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-loaf-nutri-multi-grain-400g-10762199	Gardenia Loaf - Nutri Multi-Grain
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-choc-royale-loaf-340g-13273421	Gardenia Loaf - Chocolate Royale
+dairy	bread	https://www.fairprice.com.sg/product/gardenia-high-fibre-white-bread-400g-292045	Gardenia White Bread - High Fibre
+snacks	biscuits	https://www.fairprice.com.sg/product/hup-seng-special-cream-cracker-10s-225g-11157740	Hup Seng Crackers - Cream (Special)
+snacks	biscuits	https://www.fairprice.com.sg/product/hup-seng-cream-crackers-428g-12374819	Hup Seng Crackers - Cream
+snacks	biscuits	https://www.fairprice.com.sg/product/491837	Mitsuya Tasty Biscuit Stick
+snacks	biscuits	https://www.fairprice.com.sg/product/khong-guan-premium-marie-biscuits-260g-13021967	Khong Guan Biscuits - Marie (Premium)
+snacks	biscuits	https://www.fairprice.com.sg/product/hup-seng-crackers-sugar-225g-10-per-pack-11178701	Hup Seng Crackers - Sugar
+snacks	biscuits	https://www.fairprice.com.sg/product/hup-seng-crackers-wholemeal-225g-10-per-pack-11157804	Hup Seng Crackers - Wholemeal
+snacks	biscuits	https://www.fairprice.com.sg/product/nutella-biscuits-193-2g-13262808	Nutella Biscuits
+snacks	biscuits	https://www.fairprice.com.sg/product/meiji-hello-panda-biscuits-assorted-260g-10-per-pack-12234429	Meiji Hello Panda Biscuits - Assorted
+snacks	biscuits	https://www.fairprice.com.sg/product/khong-guan-biscuits-lemon-puff-12s-260g-10797324	Khong Guan Sandwich Biscuits - Lemon Puff
+snacks	biscuits	https://www.fairprice.com.sg/product/munchy-s-oat-krunch-breakfast-dark-choc-blueberry-6-per-pack-13240791	Munchy's Oat Krunch Breakfast - Dark Choc & Blueberry
+snacks	biscuits	https://www.fairprice.com.sg/product/munchy-s-oat-krunch-crackers-chunky-hazelnut-208g-8-per-pack-13084527	Munchy's Oat Krunch Crackers - Chunky Hazelnut
+snacks	biscuits	https://www.fairprice.com.sg/product/jack-n-jill-dewberry-biscuits-blueberry-12s-x-36g-13102644	Jack 'n Jill Dewberry Sandwich Biscuits - Blueberry
+snacks	biscuits	https://www.fairprice.com.sg/product/khong-guan-grade-1-biscuits-assorted-800g-13021988	Khong Guan Assortment Biscuits - Grade 1
+snacks	biscuits	https://www.fairprice.com.sg/product/loacker-classic-mix-minis-200g-13105138	Loacker Classic Mini Crispy Wafers - Assorted
+snacks	snacks	https://www.fairprice.com.sg/product/fairprice-potato-chips-original-60g-13207660	FairPrice Potato Chips - Original
+snacks	snacks	https://www.fairprice.com.sg/product/snackables-snack-fresh-carrots-250g-13280574	Snackables Snack Fresh Carrots
+snacks	snacks	https://www.fairprice.com.sg/product/calbee-crispy-potato-chips-hot-spicy-72g-13209242	Calbee Crispy Potato Chips - Hot & Spicy
+snacks	snacks	https://www.fairprice.com.sg/product/calbee-prawn-crackers---original-13146781	Calbee Prawn Crackers - Original
+snacks	snacks	https://www.fairprice.com.sg/product/meiji-plain-cracker-416g-13228020	Meiji Plain Cracker
+snacks	snacks	https://www.fairprice.com.sg/product/twisties-bbq-curry-dude-multi-pack-8s-x-120g-13052761	Twisties Corn Snack - Kaboom! BBQ Curry
+snacks	snacks	https://www.fairprice.com.sg/product/calbee-jagabee-potato-sticks-original-5-x-18g-13001233	Calbee Jagabee Potato Sticks - Original
+snacks	snacks	https://www.fairprice.com.sg/product/mamee-noodle-snack-bbq-12-x-25g-13000875	Mamee Noodle Snack - BBQ
+snacks	snacks	https://www.fairprice.com.sg/product/fairprice-potato-chips-sour-cream-onion-60g-13207659	FairPrice Potato Chips - Sour Cream & Onion
+snacks	snacks	https://www.fairprice.com.sg/product/calbee-jagabee-potato-sticks-seaweed-5-x-17g-13045696	Calbee Jagabee Potato Sticks - Seaweed
+snacks	snacks	https://www.fairprice.com.sg/product/munchys-oat-krunch-strawberry-blackcurrant-208g-13084526	Munchy's Oat Krunch Crackers - Strawberry & Blackcurrant
+beverages	beverages	https://www.fairprice.com.sg/product/100-plus-zero-sugar-can-drink-original-24-x-325ml-ctn-13127636	100 Plus Zero Sugar Can Drink - Original
+beverages	beverages	https://www.fairprice.com.sg/product/ctn-100-plus-isotonic-canned-drinks-active-24s-x-300ml-12704152	100 Plus Isotonic Can Drink - Active
+beverages	beverages	https://www.fairprice.com.sg/product/da-100-plus-slab-can-reg-325ml-12714896	[BCRS] 100 Plus Isotonic Can Drink - Original
+beverages	beverages	https://www.fairprice.com.sg/product/coca-cola-can-drink-zero-sugar-24-x-320ml-13280143	Coca-Cola Can Drink - Zero Sugar
+beverages	beverages	https://www.fairprice.com.sg/product/coca-cola-original-taste-less-sugar-24-x-320ml-13241340	Coca-Cola Original Taste - Less Sugar
+beverages	beverages	https://www.fairprice.com.sg/product/ctn-life-100-pure-distilled-water-12s-x-15lt-10652512	Life Distilled Drinking Bottle Water
+beverages	beverages	https://www.fairprice.com.sg/product/coca-cola-can-drink-zero-sugar-12-x-320ml-ctn-13083570	Coca-Cola Can Drink - Zero Sugar
+beverages	beverages	https://www.fairprice.com.sg/product/fp-pure-d-wt24x600ml-12714768	[BCRS] FairPrice Pure Drinking Bottle Water
+beverages	beverages	https://www.fairprice.com.sg/product/pokka-packet-drink-oolong-tea-no-sugar-added-50g-12704723	Pokka Packet Drink - Oolong Tea (No Sugar Added)
+beverages	beverages	https://www.fairprice.com.sg/product/ctn-pokka-ice-lemon-tea-24s-x-250ml-11132869	Pokka Packet Drink - Ice Lemon Tea
+beverages	beverages	https://www.fairprice.com.sg/product/marigold-packet-drink-chrysanthemum-tea-lesssweet-24-x-250ml-ctn-11520415	Marigold Packet Drink - Chrysanthemum Tea (LessSweet)
+beverages	beverages	https://www.fairprice.com.sg/product/sprite-sparkling-lemon-lime-can-drink-zero-sugar-12-x-320ml-13230950	Sprite Sparkling Lemon Lime Can Drink - Zero Sugar
+beverages	beverages	https://www.fairprice.com.sg/product/ctn-pokka-straight-red-tea-packet-4x6s-250ml-12700080	Pokka Packet Drink - Straight Red Tea
+beverages	beverages	https://www.fairprice.com.sg/product/ctn-yeos-longan-red-date-24s-x-250ml-10020235	Yeo's Packet Drink - Longan Red Date
+beverages	biscuits	https://www.fairprice.com.sg/product/meiji-hello-panda-biscuits-chocolate-260g-10-per-pack-327454	Meiji Hello Panda Biscuits - Chocolate
+beverages	biscuits	https://www.fairprice.com.sg/product/quaker-oats-chocolate-chips-oat-cookies-6-x-27g-13040299	Quaker Oats - Chocolate Chips Oat Cookies
+beverages	chocolate	https://www.fairprice.com.sg/product/m-ms-chocolate-funsize-peanut-15s-2025g-12683670	M&M's Chocolate Candies - Peanut (Funsize)
+beverages	chocolate	https://www.fairprice.com.sg/product/snickers-funsize-chocolate-bar-12s-x-20g-12683849	Snickers Chocolate Bar - Funsize
+beverages	chocolate	https://www.fairprice.com.sg/product/kinder-bueno-mini-18-per-pack-13230549	Kinder Bueno - Mini
+beverages	chocolate	https://www.fairprice.com.sg/product/13166228	Nestle Milo Nuggets - Party Packs
+beverages	chocolate	https://www.fairprice.com.sg/product/snickers-chocolate-bar-peanut-124-7g-13029003	Snickers Chocolate Bar - Peanut
+beverages	chocolate	https://www.fairprice.com.sg/product/snickers-a-dark-choc-l-sugar-40g-13239966	Snickers Almond Dark Chocolate Bar - Less Sugar 
+beverages	chocolate	https://www.fairprice.com.sg/product/12683814	Snickers Chocolate Bar - Single
+beverages	chocolate	https://www.fairprice.com.sg/product/toblerone-tiny-chocolate-sharebag-dark-chocolate-200g-11665454	Toblerone Tiny Chocolate Sharebag - Dark Chocolate
+beverages	coffee	https://www.fairprice.com.sg/product/bcrs-pokka-coffee-can-drink-premium-mocha-6-x-240ml-13281343	[BCRS] Pokka Coffee Can Drink - Premium Mocha
+personal-care	deodorant	https://www.fairprice.com.sg/product/fairprice-adult-body-wipes-40s-13274738	FairPrice Adult Body Wipes (Extra Large)
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-anti-perspirant-roll-on-extra-whitening-50ml-10467878	Nivea Anti-Prespirant Roll-On Deodorant - Extra Whitening
+personal-care	deodorant	https://www.fairprice.com.sg/product/11198497	Nivea Anti-Perspirant Roll-On Deodorant - Dry Comfort (Plus)
+personal-care	deodorant	https://www.fairprice.com.sg/product/12111277	Nivea Men Roll-On Deodorant - Dry Impact Plus
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-men-anti-perspirant-roll-on-fresh-50ml-12111285	Nivea Men Roll-On Deodorant - Fresh Active
+personal-care	deodorant	https://www.fairprice.com.sg/product/12111242	Nivea Men Deodorant Spray - Fresh Active
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-men-anti-perspirant-roll-on-original-50ml-13043069	Nivea Men Roll-On Deodorant - Original
+personal-care	deodorant	https://www.fairprice.com.sg/product/gatsby-ice-type-deodorant-body-wipes-ice-fruity-30-per-pack-13233624	Gatsby Ice Type Deodorant Body Wipes - Ice Fruity
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-anti-perspirant-spray-extra-whitening-150ml-11192423	Nivea Anti-Perspirant Deodorant Spray - Extra Whitening
+personal-care	deodorant	https://www.fairprice.com.sg/product/gatsby-ice-type-deodorant-body-wipes-ice-peach-30-per-pack-13244043	Gatsby Ice Type Deodorant Body Wipes - Ice Peach
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-men-deodorant-spray-dry-impact-plus-150ml-12111218	Nivea Men Deodorant Spray - Dry Impact Plus
+personal-care	deodorant	https://www.fairprice.com.sg/product/rexona-motionsense-women-deodorant-spray-shower-clean-135ml-13053116	Rexona MotionSense Women Deodorant Spray - Shower Clean
+personal-care	deodorant	https://www.fairprice.com.sg/product/dove-0-dep-ro-pc-lmn-50ml-13268333	Dove 0% Deodorant Roll-On - Peach & Lemon Verbena
+personal-care	deodorant	https://www.fairprice.com.sg/product/rexona-motionsense-women-deodorant-roll-on-free-spirit-45ml-13068330	Rexona MotionSense Women Deodorant Roll-On - Free Spirit
+personal-care	deodorant	https://www.fairprice.com.sg/product/12081426	Nivea Anti-Perspirant Deodorant Roll-On - Pearl & Beauty
+personal-care	deodorant	https://www.fairprice.com.sg/product/rexona-deodorant-roll-on-ice-cool-72h-men-45ml-13257289	Rexona Deodorant Roll On Ice Cool 72h - Men
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-extra-bright-roll-on-deodorant-miracle-sweet-50ml-13238139	Nivea Extra Bright Roll-on Deodorant - Miracle Sweet
+personal-care	deodorant	https://www.fairprice.com.sg/product/11192554	Nivea Anti-Perspirant Deodorant Stick - Extra Brightening
+personal-care	deodorant	https://www.fairprice.com.sg/product/nivea-men-anti-perspirant-spray-black-white-invisible-150ml-13043066	Nivea Men Anti-Perspirant Spray - Black & White Invisible
+personal-care	deodorant	https://www.fairprice.com.sg/product/12110565	Nivea Men Anti-Perspirant Deodorant Spray - Cool Kick
+personal-care	personal-care	https://www.fairprice.com.sg/product/kao-white-soap-elegant-floral-3s-x-85g-12235587	Kao White Soap Bar - Elegant Floral
+personal-care	personal-care	https://www.fairprice.com.sg/product/kao-white-soap-fresh-floral-3s-x-85g-12235608	Kao White Soap Bar - Fresh Floral
+personal-care	personal-care	https://www.fairprice.com.sg/product/oc-naturals-shampoo-deep-nourish-400ml-13220385	OC Naturals Shampoo - Deep Nourish
+personal-care	personal-care	https://www.fairprice.com.sg/product/cerave-daily-moisturizing-lotion-473ml-13245755	Cerave Daily Moisturizing Lotion
+personal-care	shampoo	https://www.fairprice.com.sg/product/head-shoulders-shampoo-cool-menthol-720ml-13010508	Head & Shoulders Anti-Dandruff Shampoo - Cool Menthol
