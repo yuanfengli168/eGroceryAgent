@@ -97,10 +97,17 @@ This means no cron scheduler is required for the basic case. Sale-event handling
 | Platform     | Owner         | Status                    |
 |--------------|---------------|---------------------------|
 | FairPrice    | NTUC          | MVP target                |
-| RedMart      | FairPrice     | MVP target (likely same prices) |
-| Cold Storage | DFI Retail    | Stretch goal              |
-| Sheng Siong  | Independent   | Stretch goal              |
-| Giant        | DFI Retail    | Stretch goal              |
+| RedMart      | FairPrice (since 2022) | MVP target — runs on FairPrice backend, sometimes different pricing via Lazada app |
+| Cold Storage | DFI Retail    | Skip (out of MVP scope)   |
+| Sheng Siong  | Independent   | Skip (out of MVP scope)   |
+| Giant        | DFI Retail    | Skip (out of MVP scope)   |
+
+**Rationale for staying with FairPrice + RedMart for MVP:**
+
+- Both deliver fast and reliably in Singapore (the user's stated reason)
+- RedMart is now owned by FairPrice, so product catalogues overlap heavily — same product can have different prices on each
+- Cold Storage / Sheng Siong / Giant don't deliver to all areas with the same speed, adding complexity for marginal value
+- Real price spread (5-10%) is more likely between FairPrice and Lazada-app-exclusive RedMart deals than between FairPrice and brick-and-mortar-only chains
 
 ---
 
@@ -129,6 +136,7 @@ This means no cron scheduler is required for the basic case. Sale-event handling
 | 6 | Standalone repo: `eGroceryAgent`      | 2026-06-17 | ✅ confirmed |
 | 7 | Don't scrape on a schedule (MVP)      | 2026-06-17 | ✅ confirmed |
 | 8 | On-demand + cache-first architecture  | 2026-06-17 | ✅ confirmed |
+| 9 | MVP scope locked: FairPrice + RedMart only | 2026-06-17 | ✅ confirmed |
 
 ---
 
@@ -138,4 +146,5 @@ This means no cron scheduler is required for the basic case. Sale-event handling
 - [ ] Sketch the agent interface (`@pantry <message>` from the CEO router)
 - [ ] Manually inspect 2-3 FairPrice product pages to confirm scrapability
 - [ ] Initialize git repo and push to GitHub under `eGroceryAgent`
-- [ ] Write a minimal proof-of-concept scraper for one SKU
+- [ ] Write a minimal proof-of-concept scraper for one SKU on FairPrice + RedMart
+- [ ] Decide: how to handle RedMart's price if it's literally identical to FairPrice (skip? flag as "same as FairPrice"?)
