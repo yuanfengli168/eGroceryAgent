@@ -65,6 +65,17 @@ Trigger: a natural-language message like _"toilet paper almost finished"_.
 - Both pages are useful only as **signal that the niche exists** — not as building blocks.
 - Better path: a small, polite scraper with rate limiting, focused only on the SKUs in our catalogue.
 
+**Validation (2026-06-17):** Confirmed FairPrice is easily scrapable. Search page `https://www.fairprice.com.sg/search?query=<term>` returns a server-side-rendered Next.js page with structured product data embedded in the HTML: name, slug, brand, price. One `curl` gives all we need — no headless browser, no API reverse-engineering.
+
+Tested with `"toilet paper"` query — found 17 products with name + price in the initial response:
+- `Fairprice Onwards Toilet Tissue Roll - 3 Ply` at $17.50
+- `FairPrice Bathroom Tissue - Strong (3ply)` at $8.95
+- etc.
+
+Product URL pattern: `/product/{slug-with-product-id}` (e.g. `fairprice-bathroom-tissue-strong-3ply-20-x-200-per-pack-13277607`). The numeric suffix is the product ID, useful for stable references.
+
+RedMart not yet tested. Next step.
+
 ### 3.3 Product matching
 
 - "The toilet paper I bought last time" vs "FairPrice's listing today" — match by brand + size + pack count.
@@ -121,6 +132,7 @@ This means no cron scheduler is required for the basic case. Sale-event handling
 - Considered using an LLM-driven browser tool (Browser-Use, Computer Use) instead of scraping. **Rejected as the primary approach.** Browser tools are slow (5-15s), expensive (~$0.02/page in tokens), non-deterministic, and produce free-text output that needs re-parsing. They are good fallbacks for hard cases (CAPTCHA, layout changes), not the workhorse. The agent orchestrates, the scraper fetches.
 - Considered scraping on a daily schedule. **Rejected.** SKU-level grocery prices in Singapore are sticky (weeks-to-months per price point). Daily scraping is wasted work. The 90% case is on-demand: user says "x is running out" → check now, with a short cache (e.g. 48h) to absorb bursts.
 - Decision: Apache 2.0 license, open source, standalone repo at `eGroceryAgent`.
+- **Tested FairPrice scraping.** Search page is server-side-rendered Next.js. `curl https://www.fairprice.com.sg/search?query=toilet%20paper` returns ~1.1MB HTML with 17 product entries containing name, slug, and price. No JS execution needed. This unblocks the MVP — we can build a plain HTTP scraper today.
 
 ---
 
@@ -137,6 +149,7 @@ This means no cron scheduler is required for the basic case. Sale-event handling
 | 7 | Don't scrape on a schedule (MVP)      | 2026-06-17 | ✅ confirmed |
 | 8 | On-demand + cache-first architecture  | 2026-06-17 | ✅ confirmed |
 | 9 | MVP scope locked: FairPrice + RedMart only | 2026-06-17 | ✅ confirmed |
+| 10 | FairPrice scraping validated (SSR HTML, no headless needed) | 2026-06-17 | ✅ confirmed |
 
 ---
 
