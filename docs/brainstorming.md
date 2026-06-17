@@ -76,6 +76,21 @@ Product URL pattern: `/product/{slug-with-product-id}` (e.g. `fairprice-bathroom
 
 RedMart not yet tested. Next step.
 
+**Validation (2026-06-17):** RedMart is now tested and **NOT scrapable with our approach**.
+
+- `https://www.redmart.com` redirects to `https://redmart.lazada.sg` (acquired by Lazada in 2022).
+- All RedMart pages are now CSR (client-side rendered) React. No `__NEXT_DATA__`, no SSR JSON, no `application/ld+json` blocks.
+- The only public search API is Lazada's `mtop` endpoint (`mtop.lazada.gsearch.appsearch`), which:
+  - Returns `FAIL_SYS_USER_VALIDATE` with a CAPTCHA challenge URL (`x5secdata`) for any unsigned request.
+  - Requires mtop signing (token + timestamp + HMAC), which is regenerated client-side and depends on the `acs-m.lazada.sg` mtop SDK.
+  - Hard-blocks at the application layer (`rgv587_flag:sm`) when it detects a non-browser User-Agent or missing cookies.
+- `robots.txt` disallows `/products/*.html`. `sitemap.xml` only contains brand/category sitemaps, no product URLs.
+- Lazada's product detail pages (e.g. `…/products/<slug>-i<NUMBER>-s<NUMBER>.html`) are also CAPTCHA-walled — no price data leaks via SSR.
+
+**Implication:** RedMart cannot be included in MVP without either (a) running a real headless browser with cookie storage, or (b) integrating a third-party scraping/aggregator service (which we have already ruled out). Both contradict our self-imposed constraints.
+
+**Decision:** Drop RedMart from MVP scope. Re-evaluate if/when we add Cold Storage / Sheng Siong / Giant, since those are independent sites with different anti-bot postures.
+
 ### 3.3 Product matching
 
 - "The toilet paper I bought last time" vs "FairPrice's listing today" — match by brand + size + pack count.
