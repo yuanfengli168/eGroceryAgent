@@ -1,0 +1,380 @@
+# category	search_term	slug	name
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-conditioner-intense-repair-660ml-12529569	Dove Conditioner - Intense Repair
+health-beauty	conditioner	https://www.fairprice.com.sg/product/sunsilk-hair-conditioner-smooth-manageable-625ml-13085452	Sunsilk Hair Conditioner - Smooth & Manageable
+health-beauty	conditioner	https://www.fairprice.com.sg/product/pantene-conditioner-silky-smooth-care-680ml-13194421	Pantene Conditioner - Silky Smooth Care
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-hair-boost-nourishing-conditioner-anti-hairfall-660ml-13200346	Dove Hair Boost Nourishing Conditioner - Anti Hairfall
+health-beauty	conditioner	https://www.fairprice.com.sg/product/pantene-conditioner-hair-fall-control-680ml-13194385	Pantene Conditioner - Hair Fall Control
+health-beauty	conditioner	https://www.fairprice.com.sg/product/pantene-conditioner-daily-moisture-renewal-680ml-13194446	Pantene Conditioner - Daily Moisture Renewal
+health-beauty	conditioner	https://www.fairprice.com.sg/product/da-dove-hya-krtin-shine-cond-630ml-13250347	Dove Hya Keratin Shine Conditioner
+health-beauty	conditioner	https://www.fairprice.com.sg/product/sunsilk-hair-conditioner-soft-smooth-625ml-13085454	Sunsilk Hair Conditioner - Soft & Smooth
+health-beauty	conditioner	https://www.fairprice.com.sg/product/pantene-conditioner-total-damage-care-680ml-13194449	Pantene Conditioner - Total Damage Care
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-hair-conditioner-fresh-nourishment-660ml-13216971	Dove Hair Conditioner - Fresh Nourishment
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-conditioner-straight-silky-700ml-12529534	Dove Conditioner - Straight & Silky
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-conditioner-detox-nourishment-660ml-13176299	Dove Conditioner - Detox Nourishment
+health-beauty	conditioner	https://www.fairprice.com.sg/product/l-oreal-paris-conditioner-fall-resist-3x-450ml-13041769	L'Oreal Paris Conditioner - Fall Resist 3x
+health-beauty	conditioner	https://www.fairprice.com.sg/product/sunsilk-conditioner-strong-long-13230355	Sunsilk Conditioner - Strong & Long
+health-beauty	conditioner	https://www.fairprice.com.sg/product/tsubaki-prem-moist-repr-cond-450ml-13264749	Tsubaki Premium Moist & Repair Conditioner
+health-beauty	conditioner	https://www.fairprice.com.sg/product/l-oreal-paris-conditioner-total-repair-5-repairing-450ml-13041771	L'Oreal Paris Conditioner - Total Repair 5 (Repairing)
+health-beauty	conditioner	https://www.fairprice.com.sg/product/diane-perfect-beauty-extra-treatment-hair-fall-control-450ml-13201451	Diane Perfect Beauty Extra Treatment - Hair Fall Control
+health-beauty	conditioner	https://www.fairprice.com.sg/product/dove-conditioner-hair-fall-rescue-660ml-13020182	Dove Conditioner - Hair Fall Rescue
+health-beauty	conditioner	https://www.fairprice.com.sg/product/fino-premium-touch-conditioner-550ml-13269352	Fino Premium Touch Conditioner
+health-beauty	conditioner	https://www.fairprice.com.sg/product/l-oreal-paris-conditioner-full-resist-440ml-13208076	L'Oreal Paris Conditioner - Full Resist
+health-beauty	contact	https://www.fairprice.com.sg/product/refresh-eye-drops-contacts-15ml-13078730	Refresh Eye Drops - Contacts
+health-beauty	contact	https://www.fairprice.com.sg/product/abbott-blink-contacts-eye-drop-10ml-11267456	Abbott Blink Contacts Eye Drop
+health-beauty	contact	https://www.fairprice.com.sg/product/zappy-all-natural-food-contact-wipes-wipe-n-eat-2-x-15-per-pack-13136198	Zappy All Natural Food Contact Wipes - Wipe N' Eat
+health-beauty	contact	https://www.fairprice.com.sg/product/caredyn-food-contact-safe-wipes-pokemon-15-per-pack-13283324	Caredyn Food Contact Safe Wipes - Pokemon
+health-beauty	contact	https://www.fairprice.com.sg/product/zappy-all-natural-food-contact-wipes-wipe-n-eat-50-per-pack-13202240	Zappy All Natural Food Contact Wipes - Wipe N' Eat
+health-beauty	contact	https://www.fairprice.com.sg/product/zappy-food-contact-surface-sanitiser-spray-500ml-13227619	Zappy Food Contact Surface Sanitiser Spray
+health-beauty	contact	https://www.fairprice.com.sg/product/caredyn-hello-kitty-food-contact-wipes-15-sheets-x-4-packs-4-x-15s-90189398	CAREDYN Hello Kitty Food Contact Wipes 15 Sheets x 4 Packs
+health-beauty	contact	https://www.fairprice.com.sg/product/medela-contact-nipple-shield-24mm---size-l	MEDELA Contact Nipple Shield 24mm - Size L
+health-beauty	contact	https://www.fairprice.com.sg/product/tp-link-tapo-t110-smart-contact-sensor	TP-Link Tapo T110 Smart Contact Sensor
+health-beauty	contact	https://www.fairprice.com.sg/product/lansinoh-contact-nipple-shield-with-case-24-mm-90049534	Lansinoh Contact Nipple Shield with Case
+health-beauty	contact	https://www.fairprice.com.sg/product/lansinoh-contact-nipple-shield-with-case-20-mm-90049533	Lansinoh Contact Nipple Shield with Case
+health-beauty	contact	https://www.fairprice.com.sg/product/wd40-specialist-fast-drying-contact-cleaner-200-ml-90041874	WD40 SPECIALIST FAST DRYING CONTACT CLEANER
+health-beauty	contact	https://www.fairprice.com.sg/product/stanley-contact-cleaner-450-ml-90153580	Stanley Contact Cleaner
+health-beauty	contact	https://www.fairprice.com.sg/product/gopro-contacto-for-hero13121110-black	GoPro Contacto For Hero13/12/11/10 Black
+health-beauty	contact	https://www.fairprice.com.sg/product/oates-aluminium-contractor-handle-15-mtr---blue	Oates Aluminium Contractor Handle 1.5 mtr - Blue
+health-beauty	contact	https://www.fairprice.com.sg/product/oates-contractor-hd-scour-n-sponges	OATES Contractor H/D Scour ‘N’ Sponges
+health-beauty	contact	https://www.fairprice.com.sg/product/oates-aluminium-contractor-handle-15-mtr---green	Oates Aluminium Contractor Handle 1.5 mtr - Green
+health-beauty	contact	https://www.fairprice.com.sg/product/oates-aluminium-contractor-handle-15-mtr---white	Oates Aluminium Contractor Handle 1.5 mtr - White
+health-beauty	contact	https://www.fairprice.com.sg/product/oates-aluminium-contractor-handle-15m--red	Oates Aluminium Contractor Handle (1.5m)- Red
+health-beauty	contact	https://www.fairprice.com.sg/product/ps5-sniper-ghost-warrior-contracts-2---elite-edition--r1	PS5 Sniper Ghost Warrior Contracts 2 - Elite Edition / R1
+health-beauty	lens	https://www.fairprice.com.sg/product/12162373	Braun ThermoScan Lens Filters
+health-beauty	lens	https://www.fairprice.com.sg/product/gladleigh-lens-wipes	GLADLEIGH Lens Wipes
+health-beauty	lens	https://www.fairprice.com.sg/product/tp-link-tapo-c246d-indooroutdoor-dual-lens-pantilt-camera	TP-Link Tapo C246D Indoor/Outdoor Dual Lens Pan/Tilt Camera
+health-beauty	lens	https://www.fairprice.com.sg/product/fujifilm-x-m5-mirrorless-camera-with-lens---silver	Fujifilm X-M5 Mirrorless Camera with Lens - Silver
+health-beauty	lens	https://www.fairprice.com.sg/product/sony-zv-e10-interchangeable-lens-aps-c-e-mount-camera--black	Sony ZV-E10 Interchangeable-Lens APS-C E-Mount Camera -Black
+health-beauty	lens	https://www.fairprice.com.sg/product/gopro-hb-series-lens-collection-for-hero-13-black	GoPro HB-Series Lens Collection (For HERO 13 Black)
+health-beauty	lens	https://www.fairprice.com.sg/product/gopro-anamorphic-lens-mod-for-hero-13-black	GoPro Anamorphic Lens Mod (For HERO 13 Black)
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-ace-pro-2-close-up-lens	Insta360 Ace Pro 2 Close Up Lens
+health-beauty	lens	https://www.fairprice.com.sg/product/gopro-macro-lens-mod-for-hero13-black	GoPro Macro Lens Mod For Hero13 Black
+health-beauty	lens	https://www.fairprice.com.sg/product/gopro-ultra-wide-lens-mod-for-hero13-black	GoPro Ultra Wide Lens Mod For Hero13 Black
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-ace-pro-2-ultra-wide-lens	Insta360 Ace Pro 2 Ultra Wide Lens
+health-beauty	lens	https://www.fairprice.com.sg/product/tp-link-tapo-c245d-dual-lens-pantilt-security-camera	Tp-Link Tapo C245D Dual Lens Pan/Tilt Security Camera
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-x5-camera-standard-lens-guard	Insta360 X5 Camera Standard Lens Guard
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-x4-air-protective-standard-lens-guard	Insta360 X4 Air Protective Standard Lens Guard
+health-beauty	lens	https://www.fairprice.com.sg/product/gopro-protective-lens-replacement-for-hero109-black-1	GoPro Protective Lens Replacement For Hero10/9 Black
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-x5-lens-cap---satin-white	Insta360 X5 Lens Cap - Satin White
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-x5-protective-lens-cap---graphite-black	Insta360 X5 Protective Lens Cap - Graphite Black
+health-beauty	lens	https://www.fairprice.com.sg/product/steve-leif-wide-lens-safety-glasses-clear-1-pc-90009254	Steve & Leif Wide Lens Safety Glasses (Clear)
+health-beauty	lens	https://www.fairprice.com.sg/product/insta360-luna-ultra-8k-dual-lens-camera-creator-bundle-black	Insta360 Luna Ultra 8K Dual-Lens Camera Creator Bundle Black
+health-beauty	lens	https://www.fairprice.com.sg/product/ammeltz-yoko-yoko-analgesic-liquid-less-smell-80ml-80ml-13081998	Ammeltz Yoko Yoko Analgesic Liquid - Less Smell
+health-beauty	lotion	https://www.fairprice.com.sg/product/13021609	Vaseline Intensive Care Body Lotion - Aloe Soothe
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-body-milk-lotion-intensive-moisture-400ml-12257129	Nivea Body Milk Lotion - Intensive Moisture
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-blue-seal-pure-petroleum-jelly-100ml-13219633	Vaseline Blue Seal Pure Petroleum Jelly
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-gluta-hyt-serum-burst-uv-lotion-330ml-13230363	Vaseline Gluta-HYT Serum Burst UV Lotion
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-body-lotion-express-hydration-400ml-12243173	Nivea Body Lotion - Express Hydration
+health-beauty	lotion	https://www.fairprice.com.sg/product/jergens-moisturizer-ultra-healing-621ml-13195573	Jergens Moisturizer - Ultra Healing
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-lotion-nourishing-400ml-13010966	Vaseline Total Moisture Body Lotion - Nourishing
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-intensive-care-lotion-cocoa-radiant-400ml-13078693	Vaseline Intensive Care Lotion - Cocoa Radiant
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-body-lotion-extra-white-firm-smooth-380ml-13001920	Nivea Body Lotion - Extra White (Firm & Smooth)
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-body-lotion-aloe-hydration-400ml-13132365	Nivea Body Lotion - Aloe & Hydration
+health-beauty	lotion	https://www.fairprice.com.sg/product/v-gl-h-spf50-l-df260-13259201	Vaseline Gluta-Hya SPF50 Luminous Defense 
+health-beauty	lotion	https://www.fairprice.com.sg/product/13021610	Vaseline Intensive Care Body Lotion - Deep Restore
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-moisturising-creme-60ml-11480513	Nivea Moisturising Creme
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-pro-derma-b-body-ltn-95ml-13250827	Vaseline Pro Derma Body Lotion - Brightening 
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-healthy-bright-triple-lotion-spf-24-350ml-13021260	Vaseline Healthy Bright Triple Lotion - SPF 24
+health-beauty	lotion	https://www.fairprice.com.sg/product/aveeno-moisturising-lotion-daily-354ml-13092287	Aveeno Moisturising Lotion - Daily
+health-beauty	lotion	https://www.fairprice.com.sg/product/vaseline-intensive-care-body-lotion-aloe-soothe-400ml-13010970	Vaseline Intensive Care Body Lotion - Aloe Soothe
+health-beauty	lotion	https://www.fairprice.com.sg/product/cetaphil-moisturising-cream-50g-13267620	Cetaphil Moisturising Cream
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-body-milk-lotion---intensive-moisture-13096775	Nivea Body Milk Lotion - Intensive Moisture
+health-beauty	lotion	https://www.fairprice.com.sg/product/nivea-moisturising-cream-soft-200ml-11199297	Nivea Moisturising Cream - Soft
+health-beauty	shampoo	https://www.fairprice.com.sg/product/head-shoulders-shampoo-cool-menthol-720ml-13010508	Head & Shoulders Anti-Dandruff Shampoo - Cool Menthol
+health-beauty	shampoo	https://www.fairprice.com.sg/product/sunsilk-shampoo-smooth-manageable-650ml-13085432	Sunsilk Hair Shampoo - Smooth & Manageable
+health-beauty	shampoo	https://www.fairprice.com.sg/product/pantene-shampoo-silky-smooth-care-680ml-13194386	Pantene Shampoo - Silky Smooth Care
+health-beauty	shampoo	https://www.fairprice.com.sg/product/sunsilk-hair-shampoo-light-frequent-wash-625ml-13085434	Sunsilk Hair Shampoo - Light Frequent Wash
+health-beauty	shampoo	https://www.fairprice.com.sg/product/head-shoulders-shampoo-clean-balanced-720ml-13010505	Head & Shoulders Anti-Dandruff Shampoo - Clean & Balanced
+health-beauty	shampoo	https://www.fairprice.com.sg/product/pantene-shampoo-hair-fall-control-680ml-13194383	Pantene Shampoo - Hair Fall Control
+health-beauty	shampoo	https://www.fairprice.com.sg/product/sunsilk-hair-shampoo-soft-smooth-625ml-13085431	Sunsilk Hair Shampoo - Soft & Smooth
+health-beauty	shampoo	https://www.fairprice.com.sg/product/clear-men-scalp-pro-shampoo-anti-dandruff-300ml-13238544	Clear Men Scalp Pro Shampoo - Anti-Dandruff
+health-beauty	shampoo	https://www.fairprice.com.sg/product/pantene-shampoo-daily-moisture-renewal-680ml-13194445	Pantene Shampoo - Daily Moisture Renewal
+health-beauty	shampoo	https://www.fairprice.com.sg/product/method-mens-2in1-shampoo-conditioner-sea-surf-414-ml-90174539	Method Mens 2in1 Shampoo+Conditioner Sea+Surf
+health-beauty	shampoo	https://www.fairprice.com.sg/product/sunsilk-hair-shampoo-lively-clean-fresh-625ml-13085436	Sunsilk Hair Shampoo - Lively Clean & Fresh
+health-beauty	shampoo	https://www.fairprice.com.sg/product/dover-hair-boost-nourishment-shampoo-anti-hairfall-680ml-13200345	Dove Hair Boost Nourishment Shampoo - Anti-Hairfall
+health-beauty	shampoo	https://www.fairprice.com.sg/product/sunsilk-hair-shampoo-hair-fall-solution-625ml-13085433	Sunsilk Hair Shampoo - Hair Fall Solution
+health-beauty	shampoo	https://www.fairprice.com.sg/product/l-oreal-paris-shampoo-fall-resist-3x-620ml-13200055	L'Oreal Paris Shampoo - Fall Resist 3x
+health-beauty	shampoo	https://www.fairprice.com.sg/product/head-shoulders-anti-dandruff-shampoo-itchy-scalp-care-720ml-13197513	Head & Shoulders Anti-Dandruff Shampoo - Itchy Scalp Care
+health-beauty	shampoo	https://www.fairprice.com.sg/product/head-shoulders-shampoo-smooth-silky-720ml-13010507	Head & Shoulders Anti-Dandruff Shampoo - Smooth & Silky
+health-beauty	shampoo	https://www.fairprice.com.sg/product/clear-men-anti-dandruff-shampoo-cool-sport-menthol-650ml-13152208	Clear Men Anti-Dandruff Shampoo - Cool Sport Menthol
+health-beauty	shampoo	https://www.fairprice.com.sg/product/eversoft-organic-shampoo-hair-fall-control-avocado-480ml-13177196	Eversoft Organic Shampoo - Hair Fall Control (Avocado)
+health-beauty	shampoo	https://www.fairprice.com.sg/product/dove-shampoo-volume-nourishment-680ml-13073276	Dove Shampoo - Volume Nourishment
+health-beauty	shampoo	https://www.fairprice.com.sg/product/head-shoulders-shampoo-anti-hairfall-720ml-13010521	Head & Shoulders Anti-Dandruff Shampoo - Anti-Hairfall
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-daily-moisturizing-lotion-236ml-13245759	Cerave Daily Moisturizing Lotion
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-foaming-cleanser-236ml-13245753	Cerave Foaming Cleanser
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-foaming-cleanser-473ml-13245748	Cerave Foaming Cleanser
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-oil-c-moistr-gel-crm-52ml-13265216	Cerave Oil Control Moisturising Gel Cream
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-moisturising-cream-50ml-13245757	Cerave Moisturising Cream
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-moisturising-cream-454g-13245756	Cerave Moisturising Cream
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-effaclar-cleansing-gel-400ml-13201478	La Roche-Posay Effaclar Cleansing Gel
+health-beauty	skincare	https://www.fairprice.com.sg/product/l-t-spring-wtr3x300-13255074	La Roche-Posay Thermal Spring Water
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-h-cls-473mlx2-mc15ml-1s-13268973	Cerave Hydrating Cleanser + Free Moisturising Cream
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-toleriane-caring-wash-200ml-13201477	La Roche-Posay Toleriane Caring Wash
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-facial-moisturising-lotion-am-52ml-13245751	Cerave Facial Moisturising Lotion - AM
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-acne-skin-saver-set-1-per-pack-13184226	La Roche-Posay Acne Skin Saver Set
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-moisturising-cream-88ml-13245760	Cerave Moisturising Cream
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-retinol-b3-serum-30ml-13195529	La Roche-Posay Retinol B3 Serum
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-anthelios-invisible-fluid-spf50-50ml-13117574	La Roche-Posay Anthelios Invisible Fluid SPF50+
+health-beauty	skincare	https://www.fairprice.com.sg/product/la-roche-posay-toleriande-sensitive-fluide-40ml-13144520	La Roche-Posay Toleriande Sensitive Fluide
+health-beauty	skincare	https://www.fairprice.com.sg/product/l-cicaplast-b5-mask5-13253113	La Roche-Posay Cicaplast B5 Mask
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-acne-blemish-control-cleanser-473ml-13270897	Cerave Acne Blemish Control Cleanser
+health-beauty	skincare	https://www.fairprice.com.sg/product/cerave-facial-moisturising-lotion-am-spf50-52ml-13270899	Cerave Facial Moisturising Lotion - AM SPF50
+health-beauty	skincare	https://www.fairprice.com.sg/product/lrp-a-uvm-400-i-fluid-15ml-13263149	La Roche-Posay Anthelios UVmune 400 Invisible Fluid
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/nano-skin-sg-the-perfect-sunscreen	Nano Skinz SG The Perfect Sunscreen
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/biore-uv-ar-w-esce-spf50-70g-13230501	Biore UV Aqua Rich Watery Essence - SPF 50+
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/sunplay-water-kids-sun-protection-spray-spf-50-100ml-13241932	Sunplay Water Kids Sun Protection Spray SPF 50++
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/evian-bundle-of-2-brumisateur-facial-spray-300-ml-90131317	Evian Brumisateur Facial Spray
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/banana-boat-sunscreen-lotion-sport-spf-50-90ml-90ml-13163814	Banana Boat Sunscreen Lotion - Sport (SPF 50)
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/biore-uv-aqua-rich-protect-spf-50-60ml-13232346	Biore UV Aqua Rich Protect - SPF 50
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/banana-boat-sport-sunscreen-lotion-ultra-protect-spf-50-90ml-13163816	Banana Boat Sport Sunscreen Lotion - Ultra Protect (SPF 50+)
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/nivea-super-c-vitamin-serum-spf50-extra-bright-320ml-13229408	Nivea Super C+ Vitamin Serum SPF50 - Extra Bright
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/biore-uv-ar-w-gel-spf50-70g-13230500	Biore Aqua Rich Watery Gel - SPF 50+
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/anessa-perfect-uv-sunscreen-skincare-milk-20ml-13251872	Anessa Perfect UV Sunscreen Skincare Milk
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/banana-boat-sport-sunscreen-spray-ultra-protect-spf-50-170g-13163812	Banana Boat Sport Sunscreen Spray - Ultra Protect (SPF 50+)
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/sunplay-skin-aqua-tone-up-uv-mist-spf-50-70g-13146395	Sunplay Skin Aqua Tone Up UV Mist (SPF 50)
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/neutrogena-beach-defence-spf70-198ml-13098029	Neutrogena Sunscreen Lotion - Beach Defense SPF 50
+health-beauty	sunscreen	https://www.fairprice.com.sg/product/garnier-s-uv-c-wtrgel-sunscr-30ml-13268975	Garnier Super UV Sunscreen - Cooling Watergel
+bakery-deli	bagels	https://www.fairprice.com.sg/product/everiday-gluten-free-plain-bagel	Everiday Gluten Free Plain Bagel
+bakery-deli	bagels	https://www.fairprice.com.sg/product/philips-bagless-and-corded-vacuum-cleaner-fc9352	Philips Bagless and Corded Vacuum Cleaner (FC9352)
+bakery-deli	bagels	https://www.fairprice.com.sg/product/karcher-1100w-bagless-vacuum-cleaner-vc-3-plus-1198-0550	Karcher 1100W Bagless Vacuum Cleaner VC 3 Plus (1.198-055.0)
+bakery-deli	bagels	https://www.fairprice.com.sg/product/bosch-bgs21wbagb-series-4-bagless-vacuum-cleaner-black	Bosch BGS21WBAGB, Series 4, Bagless Vacuum Cleaner, Black
+bakery-deli	bagels	https://www.fairprice.com.sg/product/bagless-vacuum-cleaner-black-bgc21x3gb	Bagless vacuum cleaner Black BGC21X3GB
+bakery-deli	bagels	https://www.fairprice.com.sg/product/philips-bagless-and-corded-vacuum-cleaner-fc9350	Philips Bagless and Corded Vacuum Cleaner (FC9350)
+bakery-deli	bagels	https://www.fairprice.com.sg/product/electrolux-bagless-and-corded-canister-vacuum-cleaner-z1231	Electrolux Bagless and Corded Canister Vacuum Cleaner (Z1231)
+bakery-deli	bagels	https://www.fairprice.com.sg/product/powerpac-wet-dry-vacuum-cleaner-1200-watts-ppv1500-1-pc-90014087	PowerPac Wet & Dry Vacuum Cleaner - Bagless (PPV1500)
+bakery-deli	buns	https://www.fairprice.com.sg/product/94003	Gardenia Buns - Hamburger
+bakery-deli	buns	https://www.fairprice.com.sg/product/94011	Gardenia Buns - Hotdog
+bakery-deli	buns	https://www.fairprice.com.sg/product/212043	Gardenia Buns - Raisin
+bakery-deli	buns	https://www.fairprice.com.sg/product/bakeri-brioche-buns-3-per-pack-13224308	Bakeri Brioche Buns
+bakery-deli	buns	https://www.fairprice.com.sg/product/bakeri-focaccia-buns-220g-13276691	Bakeri Focaccia Bun
+bakery-deli	buns	https://www.fairprice.com.sg/product/ego-swiss-roll-coconut-pandan-176g-12302196	Ego Swiss Roll - Coconut Pandan
+bakery-deli	buns	https://www.fairprice.com.sg/product/food-for-friends-brioche-bun-4pcs---frozen-1	Food For Friends Brioche Bun (4pcs) - Frozen
+bakery-deli	buns	https://www.fairprice.com.sg/product/schar-hamburger-buns-gluten-free-4-x-75g-90023889	Schar Gluten Free - Hamburger Buns
+bakery-deli	buns	https://www.fairprice.com.sg/product/schar-bon-choc-buns-with-choco-chips-gluten-free-220-g-90173309	Schar Gluten Free - Bon Choc buns with choco chips
+bakery-deli	buns	https://www.fairprice.com.sg/product/food-for-friends-mini-brioche-bun-8pcs---frozen-1	Food For Friends Mini Brioche Bun (8pcs) - Frozen
+bakery-deli	buns	https://www.fairprice.com.sg/product/fairprice-frozen-mini-buns-red-bean-270g-9-per-pack-13025183	FairPrice Frozen Mini Buns - Red Bean
+bakery-deli	buns	https://www.fairprice.com.sg/product/spring-home-mini-char-siew-chicken-bun-160g-8-per-pack-13039302	Spring Home Mini Char Siew Chicken Bun
+bakery-deli	buns	https://www.fairprice.com.sg/product/fairprice-longevity-buns-6s-360g-13028493	FairPrice Frozen Buns - Longevity
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-big-bun-pork-260g-13270790	Lim Kee Big Bun - Pork
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-exclusive-bun-bbq-chicken-280g-8-per-pack-13136377	Lim Kee Exclusive Bun - BBQ Chicken
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-oyster-char-siu-bun-8-per-pack-13225066	Lim Kee Oyster Char Siu Bun
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-exclusive-bun-braised-pork-280g-8-per-pack-13174690	Lim Kee Exclusive Bun - Braised Pork
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-bun-braised-pork-belly-260g-13270788	Lim Kee Bun - Braised Pork Belly
+bakery-deli	buns	https://www.fairprice.com.sg/product/lim-kee-big-bun-chicken-260g-13270793	Lim Kee Big Bun - Chicken
+bakery-deli	cake	https://www.fairprice.com.sg/product/10692231	Apollo Layer Cake - Pandan
+bakery-deli	cake	https://www.fairprice.com.sg/product/10286428	Apollo Layer Cake - Chocolate
+bakery-deli	cake	https://www.fairprice.com.sg/product/oreo-chocolate-soft-cake-230-4g-13261777	Oreo Chocolate Soft Cake
+bakery-deli	cake	https://www.fairprice.com.sg/product/10692274	Apollo Layer Cake - Strawberry
+bakery-deli	cake	https://www.fairprice.com.sg/product/lotte-zero-dark-cacao-cake-171g-13265794	Lotte Zero Dark Cacao Cake
+bakery-deli	cake	https://www.fairprice.com.sg/product/apollo-layer-cake-original-24-x-18g-10692215	Apollo Layer Cake - Original
+bakery-deli	cake	https://www.fairprice.com.sg/product/fudgee-barr-chocolate-cake-chocolate-cream-400g-10-per-pack-12038962	Fudgee Barr Chocolate Cake - Chocolate Cream
+bakery-deli	cake	https://www.fairprice.com.sg/product/fudgee-barr-cake-with-dark-chocolate-cream-filled-600g-13202887	Fudgee Barr Cake with Dark Chocolate Cream-Filled
+bakery-deli	cake	https://www.fairprice.com.sg/product/delyco-salty-mung-bean-cake-bundle-of-2-2-x-150g-90030175	Delyco Salty Mung Bean Cake - Bundle of 2
+bakery-deli	cake	https://www.fairprice.com.sg/product/delyco-sweet-mung-bean-cake-bundle-of-2-2-x-150g-90030176	Delyco Sweet Mung Bean Cake - Bundle of 2
+bakery-deli	cake	https://www.fairprice.com.sg/product/oriental-layer-cake-pandan-flavour-128-g-90047638	Oriental Layer Cake Pandan Flavour
+bakery-deli	cake	https://www.fairprice.com.sg/product/oriental-layer-cake-butter-flavour-128-g-90047636	Oriental Layer Cake Butter Flavour
+bakery-deli	cake	https://www.fairprice.com.sg/product/yueyan-eggless-veg-pineapple-cake---convenient-pack	YueYan Eggless Veg Pineapple Cake - convenient Pack
+bakery-deli	cake	https://www.fairprice.com.sg/product/delyco-vege-mung-bean-cake-bundle-of-2-2-x-150g-90030177	Delyco Vegetarian Mung Bean Cake - Bundle of 2
+bakery-deli	cake	https://www.fairprice.com.sg/product/oriental-layer-cake-chocolate-flavour-128-g-90047637	Oriental Layer Cake Chocolate Flavour
+bakery-deli	cake	https://www.fairprice.com.sg/product/bourbon-bourbon-baum-roll-chocolate-cake-105-g-90064671	BOURBON Baum Roll Chocolate Cake
+bakery-deli	cake	https://www.fairprice.com.sg/product/oriental-layer-cake-strawberry-flavour-128-g-90047639	Oriental Layer Cake Strawberry Flavour
+bakery-deli	cake	https://www.fairprice.com.sg/product/wugufeng-peranakan-pineapple-cakes-2pcs-gift-box	WuGuFeng Peranakan Pineapple Cakes 2pcs Gift Box
+bakery-deli	cake	https://www.fairprice.com.sg/product/yue-yan-special-pineapple-cake---gift-box-orchid	Yue Yan Special Pineapple Cake - Gift Box (Orchid)
+bakery-deli	cake	https://www.fairprice.com.sg/product/wugufeng-peranakan-pineapple-cakes-6pcs-gift-box	WuGuFeng Peranakan Pineapple Cakes 6pcs Gift Box
+bakery-deli	croissant	https://www.fairprice.com.sg/product/churo-butter-croissant-3-x-60g-90120666	Churo Butter Croissants (Frozen)
+bakery-deli	croissant	https://www.fairprice.com.sg/product/churo-mini-butter-croissant-pastry-ready-to-cook-12-x-25g-90129419	Churo Mini Butter Croissants (Frozen)
+bakery-deli	croissant	https://www.fairprice.com.sg/product/food-for-friends-mini-butter-croissant---frozen-1	Food For Friends Mini Butter Croissant - Frozen
+bakery-deli	croissant	https://www.fairprice.com.sg/product/food-for-friends-mini-butter-multigrain-croissant---frozen-1	Food For Friends Mini Butter Multigrain Croissant - Frozen
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/pepperidge-farm-goldfish-baked-grahams-vanilla-cupcake-187g-13026090	Pepperidge Farm Goldfish Baked Grahams - Vanilla Cupcake
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/yes-you-can-cupcake-mix---vanilla	Yes You Can Cupcake Mix - Vanilla
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/sanrio-genuine-hello-kitty-baking-cupcake-cases-1-x-60s-90032427	Sanrio Genuine Hello Kitty Baking Cupcake Cases
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/lego-friends-candy-n-cupcake-ferris-wheel---42700	LEGO Friends Candy N Cupcake Ferris Wheel - 42700
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/vitantonio-cupcake-baking-plate-pvwh10cc	Vitantonio Cupcake Baking Plate (PVWH10CC)
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/playdoh-cupcake-tower-playset	Playdoh Cupcake Tower Playset
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box-25s	RedMan Cupcake Box 25'S
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/yes-you-can-cupcake-mix---red-velvet	Yes You Can Cupcake Mix - Red Velvet
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box-12s	RedMan Cupcake Box 12'S
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/partyforte-3-piece-green-foam-cupcake-hanging-accessory-3-pc-90107693	Partyforte 3 Piece Green Foam Cupcake Hanging Accessory
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/partyforte-3-piece-blue-foam-cupcake-hanging-accessory-3-pc-90107692	Partyforte 3 Piece Blue Foam Cupcake Hanging Accessory
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/wiltshire-cupcake-corer-1-s-90075656	Wiltshire Cupcake Corer
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box-6s-925-x-625-x-h3	RedMan Cupcake Box 6'S (9.25 x 6.25 x H3")
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-toppers---bunny-ear	RedMan Cupcake Toppers - Bunny Ear
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/dodomu-mermaid-cupcake-border	Dodomu Mermaid Cupcake Border
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-mini-cupcake-box---yellow	RedMan Mini Cupcake Box - Yellow
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box---plain	RedMan Cupcake Box - Plain
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box-2s-625-x-35-x-h3	RedMan Cupcake Box 2'S (6.25 x 3.5 x H3")
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/vesta-stainless-steel-tart-cupcake-pudding-mould-d9cm-2-pc-90092666	Vesta Stainless Steel Tart/Cupcake/Pudding Mould D9Cm
+bakery-deli	cupcakes	https://www.fairprice.com.sg/product/redman-cupcake-box-16s	RedMan Cupcake Box 16'S
+bakery-deli	muffins	https://www.fairprice.com.sg/product/treats-double-chocolate-mfn-60g-13253780	Treats Muffin - Double Chocolate
+bakery-deli	muffins	https://www.fairprice.com.sg/product/treats-chocolate-chips-mufn-60g-13253779	Treats Muffin - Chocolate Chips
+bakery-deli	muffins	https://www.fairprice.com.sg/product/treats-choco-mfn-w-slt-crml-60g-13253782	Treats Chocolate Muffin - Salted Caramel
+bakery-deli	muffins	https://www.fairprice.com.sg/product/delyco-vanilla-muffin-bundle-of-2-2-x-230g-90039037	Delyco Vanilla Muffin - Bundle of 2
+bakery-deli	muffins	https://www.fairprice.com.sg/product/delyco-chocolate-muffin-bundle-of-2-2-x-230g-90039187	Delyco Chocolate Muffin - Bundle of 2
+bakery-deli	muffins	https://www.fairprice.com.sg/product/delyco-pandan-muffin-bundle-of-2-2-x-230g-90039188	Delyco Pandan Muffin - Bundle of 2
+bakery-deli	muffins	https://www.fairprice.com.sg/product/delyco-banana-muffin-bundle-of-2-2-x-230g-90039036	Delyco Banana Muffin - Bundle of 2
+bakery-deli	muffins	https://www.fairprice.com.sg/product/betty-crocker-muffin-mix-chocolate-chip-430g-13097419	Betty Crocker Muffin Mix - Chocolate Chip
+bakery-deli	muffins	https://www.fairprice.com.sg/product/bm-foods-healthy-choice-wholegrain-banana-muffin	BM Foods Healthy Choice Wholegrain Banana Muffin
+bakery-deli	muffins	https://www.fairprice.com.sg/product/redman-non-stick-mini-muffin-pan	RedMan Non-Stick Mini Muffin Pan
+bakery-deli	muffins	https://www.fairprice.com.sg/product/quest-nutrition-protein-bar-blueberry-muffin-60-g-90094386	Quest Nutrition Protein Bar - Blueberry Muffin
+bakery-deli	muffins	https://www.fairprice.com.sg/product/redman-aluminium-foil-muffin-cup-80x35mm	RedMan Aluminium Foil Muffin Cup (80x35mm)
+bakery-deli	muffins	https://www.fairprice.com.sg/product/redman-muffin-pan---jumbo	RedMan Muffin Pan - Jumbo
+bakery-deli	muffins	https://www.fairprice.com.sg/product/redman-pan-muffin	RedMan Pan Muffin
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-starry-printed-muffin-cake-cup-liners	BEST Choice Starry Printed Muffin Cake Cup Liners
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-baker-pattern-muffin-cake-cup-liner-m-20-pc-90184570	BEST Choice Baker Pattern Muffin Cake Cup Liner (M)
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-floral-printed-muffin-cake-cup-liners-20-pc-90135990	Best Choice Floral Printed Muffin Cake Cup Liners
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-fruity-design-printed-muffin-cake-cup-liners-20-pc-90177898	BEST Choice Fruity Design Printed Muffin Cake Cup Liners
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-cute-printed-muffin-cake-cup-liners-20-pc-90135987	BEST Choice Cute Printed Muffin Cake Cup Liners
+bakery-deli	muffins	https://www.fairprice.com.sg/product/best-choice-red-muffin-cake-cup-cases-20-pc-90148440	BEST Choice Red Muffin Cake Cup Cases
+bakery-deli	pastries	https://www.fairprice.com.sg/product/delyco-heong-peah-pastry	Delyco Heong Peah Pastry
+bakery-deli	pastries	https://www.fairprice.com.sg/product/bahlsen-deloba-puff-pastry-biscuits-red-currant-100g-163618	Bahlsen Deloba Puff Pastry Biscuits - Deloba Redcurrant
+bakery-deli	pastries	https://www.fairprice.com.sg/product/vicenzi-puff-pastry-rolls-with-hazelnut-cream-125g-13039518	Vicenzi Millefoglie Puff Pastry Roll - Minisnack (Hazelnut)
+bakery-deli	pastries	https://www.fairprice.com.sg/product/fafa-sweetheart-pastry-250g-13274228	Fafa Sweetheart Pastry
+bakery-deli	pastries	https://www.fairprice.com.sg/product/fafa-double-happiness-pastry-200g-13274229	Fafa Double Happiness Pastry
+bakery-deli	pastries	https://www.fairprice.com.sg/product/pastey-hut-biscuit-ice-gem-90g-13286861	Pastey Hut Biscuit Ice Gem
+bakery-deli	pastries	https://www.fairprice.com.sg/product/spring-home-tyj-spring-roll-pastry-75in-50s-550g-51061	Spring Home TYJ Spring Roll Pastry (19cm)
+bakery-deli	pastries	https://www.fairprice.com.sg/product/spring-home-tyj-spring-roll-pastry-85in-40s-550g-51053	Spring Home TYJ Spring Roll Pastry (21.5cm)
+bakery-deli	pastries	https://www.fairprice.com.sg/product/delly-pastry-suncake---yam-taro	Delly Pastry Suncake - Yam Taro
+bakery-deli	pastries	https://www.fairprice.com.sg/product/delly-pastry-suncake---original-honey	Delly Pastry Suncake - Original Honey
+bakery-deli	pastries	https://www.fairprice.com.sg/product/crystal-jade-baked-honey-bbq-pork-pastry-6-pc-90108521	Crystal Jade Baked Honey BBQ Pork Pastry
+bakery-deli	pastries	https://www.fairprice.com.sg/product/redman-margarine-pastry-sheet	RedMan Margarine Pastry Sheet
+bakery-deli	pastries	https://www.fairprice.com.sg/product/credo-pastry-baking-brush-18-5cm-1-pc-90038523	Credo Pastry Baking Brush 18.5Cm
+bakery-deli	pastries	https://www.fairprice.com.sg/product/delyco-heong-peah-pastry-pandan	Delyco Heong Peah Pastry Pandan
+bakery-deli	pastries	https://www.fairprice.com.sg/product/legendary-high-protein-pastry---chocolate-cake	Legendary High Protein Pastry - Chocolate Cake
+bakery-deli	pastries	https://www.fairprice.com.sg/product/vesta-stainless-steel-pastry-cutter-17-5cm-1-pc-90037548	Vesta Stainless Steel Pastry Cutter 17.5Cm
+bakery-deli	pastries	https://www.fairprice.com.sg/product/delyco-heong-peah-pastry-durian	Delyco Heong Peah Pastry Durian
+bakery-deli	pastries	https://www.fairprice.com.sg/product/tramontina-century-10-pastry-knife-s-s-1-pc-90024159	Tramontina Century 10" Pastry Knife, S/S
+bakery-deli	pastries	https://www.fairprice.com.sg/product/pujadas-polyglass-pastry-cutter-plain-9-s-1-s-90182647	Pujadas Polyglass Pastry Cutter Plain 9'S
+bakery-deli	pastries	https://www.fairprice.com.sg/product/pujadas-polyglass-pastry-cutter-flutted-9-s-1-s-90182679	Pujadas Polyglass Pastry Cutter Flutted 9'S
+world-foods	indian	https://www.fairprice.com.sg/product/fairprice-muruku-thick-150g-11231664	FairPrice Snacks - Muruku (Thick)
+world-foods	indian	https://www.fairprice.com.sg/product/fairprice-snacks-muruku-thick-330g-13003075	FairPrice Snacks - Muruku (Thick)
+world-foods	indian	https://www.fairprice.com.sg/product/uncle-saba-s-poppadoms-lentil-chip-original-70g-13094031	Uncle Saba's Poppadoms Lentil Chip - Original
+world-foods	indian	https://www.fairprice.com.sg/product/fairprice-snacks-muruku-fine-150g-11231656	FairPrice Snacks - Muruku (Fine)
+world-foods	indian	https://www.fairprice.com.sg/product/fairprice-snacks-muruku-fine-330g-13003081	FairPrice Snacks - Muruku (Fine)
+world-foods	indian	https://www.fairprice.com.sg/product/13094032	Uncle Saba's Poppadoms Lentil Chip - Sweet Chilli
+world-foods	indian	https://www.fairprice.com.sg/product/uncle-saba-s-poppadoms-lentil-chip-tomato-ketchup-70g-13094034	Uncle Saba's Poppadoms Lentil Chip - Tomato Ketchup
+world-foods	indian	https://www.fairprice.com.sg/product/13163578	Krackerking Mullu Muruku
+world-foods	indian	https://www.fairprice.com.sg/product/uncle-sabas-poppadoms-barbeque-70g-13094033	Uncle Saba's Poppadoms Lentil Chip - Korean BBQ
+world-foods	indian	https://www.fairprice.com.sg/product/popo-original-fish-muruku-65g-bundle-700-g-90076201	Popo Original Fish Muruku 65g (Bundle)
+world-foods	indian	https://www.fairprice.com.sg/product/haldiram-s-all-in-one-200g-3-x-200g-90159619	Haldiram's All In One
+world-foods	indian	https://www.fairprice.com.sg/product/haldiram-s-masala-chana-1-x-150g-90033980	Haldiram's Masala Chana
+world-foods	indian	https://www.fairprice.com.sg/product/popo-popo-muruku-fish-crackers-individual-pkt-60-g-90076199	POPO Popo Muruku Fish Crackers (Individual pkt)
+world-foods	indian	https://www.fairprice.com.sg/product/kozhi-koden-s-special-masala-murukku-200-g-200-g-90044952	Kozhi Koden's Special Masala Murukku
+world-foods	indian	https://www.fairprice.com.sg/product/lays-potato-chips-indian-magic-masala-best-quality-crunchy-73-g-90127638	Lays Potato Chips Indian Magic Masala
+world-foods	indian	https://www.fairprice.com.sg/product/popo-popo-muruku-big-sweet-spicy-individual-pkt-60-g-90076196	POPO Popo Muruku Big Sweet Spicy(Individual Pkt)
+world-foods	indian	https://www.fairprice.com.sg/product/santa-muruku-2-x-300g-90135930	Santa Muruku - Bundle of 2
+world-foods	indian	https://www.fairprice.com.sg/product/haldiram-s-bhujia-2-x-200g-90019633	Haldirams Bhujia
+world-foods	indian	https://www.fairprice.com.sg/product/tajmahal-pappad-keropok-3-x-100g-90072568	Tajmahal Pappad / Keropok
+world-foods	indian	https://www.fairprice.com.sg/product/suvai-suvai-appalam-keropok-pappadum-papad-20-x-150g-90159223	Suvai Suvai Appalam/Keropok/Pappadum/Papad
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-curry-5-x-79g-13039423	Maggi 2-Minute Instant Noodles - Curry
+world-foods	instant	https://www.fairprice.com.sg/product/milo-3-in-1-instant-chocolate-malt-with-milk-regular-16-x-27g-13058254	Milo 3 in 1 Instant Chocolate Malt with Milk - Regular
+world-foods	instant	https://www.fairprice.com.sg/product/indomie-mi-goreng-instant-noodles-special-5-x-85g-13057731	Indomie Mi Goreng Instant Noodles - Special
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-2-minute-instant-noodles-chicken-5s-x-77g-13039421	Maggi 2-Minute Instant Noodles - Chicken
+world-foods	instant	https://www.fairprice.com.sg/product/nissin-cup-noodles-tom-yam-seafood-75g-17873	Nissin Instant Cup Noodles - Tom Yam Seafood
+world-foods	instant	https://www.fairprice.com.sg/product/nescafe-3-in-1-instant-coffee-original-30-x-16-5g-13039640	Nescafe 3 in 1 Instant Coffee - Original
+world-foods	instant	https://www.fairprice.com.sg/product/nongshim-instant-noodle-spicy-5s-x-120g-11130492	Nongshim Shin Ramyun Instant Noodle - Spicy
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-syiok-instant-noodles-kari-kaw-5-per-pack-13254559	Maggi Syiok Instant Noodles - Kari Kaw
+world-foods	instant	https://www.fairprice.com.sg/product/a1-instant-rice-vermicelli-455g-10-per-pack-13079949	A1 Instant Rice Vermicelli
+world-foods	instant	https://www.fairprice.com.sg/product/quaker-oats-oatmeal-instant-value-pack-800g-free-100g-12478562	Quaker Oats Instant Oatmeal - Smooth & Creamy (Free 100g)
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-5-min-mashed-potato-mushroom-43g-13085366	Maggi 5-Minute Instant Mashed Potato - Mushroom 
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-5-min-mashed-potato-onions-croutons-56g-13076660	Maggi 5-Minute Instant Mashed Potato - Fried Onions & Croutons
+world-foods	instant	https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-with-milk-gao-siew-dai-15-x-33g-13102871	Milo Instant Chocolate Malt with Milk - Gao Siew Dai
+world-foods	instant	https://www.fairprice.com.sg/product/maggi-5-min-mashed-potato-sour-cream-croutons-53g-13076661	Maggi 5-Minute Instant Mashed Potato- Sour Cream & Croutons 
+world-foods	instant	https://www.fairprice.com.sg/product/13151864	Nescafe Gold Original
+world-foods	instant	https://www.fairprice.com.sg/product/ibumie-mi-goreng-instant-noodles-original-5s-x-80g-455312	Ibumie Mi Goreng Instant Noodles - Original
+world-foods	instant	https://www.fairprice.com.sg/product/nissin-cup-noodle-chicken-75g-223157	Nissin Instant Cup Noodles - Chicken
+world-foods	instant	https://www.fairprice.com.sg/product/indocafe-3-in-1-instant-coffee-mix-100s-x-20g-10577815	Indocafe 3 in 1 Instant Coffee Mix
+world-foods	instant	https://www.fairprice.com.sg/product/nissin-cup-noodle-seafood-75g-223149	Nissin Instant Cup Noodles - Seafood
+world-foods	instant	https://www.fairprice.com.sg/product/old-town-3-in-1-instant-white-coffee-hazelnut-13-x-38g-13225770	Old Town 3 in 1 Instant White Coffee - Hazelnut
+world-foods	japanese	https://www.fairprice.com.sg/product/malaysia-naturally-fresh-japanese-cucumber-400g-13097478	Malaysia Natural Fresh Japanese Cucumber
+world-foods	japanese	https://www.fairprice.com.sg/product/pasar-japanese-cucumber-250g-10421837	Pasar Japanese Cucumber 
+world-foods	japanese	https://www.fairprice.com.sg/product/authentic-tea-house-ayataka-no-sugar-japanese-green-tea-12-x-300ml-13083578	Authentic Tea House Ayataka No Sugar Japanese Green Tea
+world-foods	japanese	https://www.fairprice.com.sg/product/authentic-tea-house-ayataka-no-sugar-japanese-green-tea-24-x-300ml-ctn-13282176	Authentic Tea House Ayataka No Sugar Japanese Green Tea
+world-foods	japanese	https://www.fairprice.com.sg/product/pokka-packet-drink-sencha-japanese-green-tea-no-sugar-24-x-250ml-ctn-12713134	Pokka Packet Drink Sencha Japanese Green Tea - No Sugar
+world-foods	japanese	https://www.fairprice.com.sg/product/pokka-japanese-roasted-tea-houjicha-250ml-6-per-pack-12709345	Pokka Japanese Roasted Tea - Houjicha
+world-foods	japanese	https://www.fairprice.com.sg/product/authentic-tea-house-ayataka-no-sugar-japanese-green-tea-1-5l-1-5l-12708571	Authentic Tea House Ayataka No Sugar Japanese Green Tea
+world-foods	japanese	https://www.fairprice.com.sg/product/authentic-tea-house-ayataka-no-sugar-japanese-green-tea-12-x-500ml-12709296	Authentic Tea House Ayataka No Sugar Japanese Green Tea
+world-foods	japanese	https://www.fairprice.com.sg/product/pokka-bottle-drink-japanese-roasted-tea-houjicha-12-x-1-5l-ctn-12710391	Pokka Bottle Drink - Japanese Roasted Tea Houjicha
+world-foods	japanese	https://www.fairprice.com.sg/product/life-japanese-green-tea-bottle-drink---no-sugar-12709009	Life Japanese Green Tea Bottle Drink - No Sugar
+world-foods	japanese	https://www.fairprice.com.sg/product/pokka-bottle-drink-japanese-green-tea-noaddedsugar-12-x-1-5l-ctn-12710390	Pokka Bottle Drink - Japanese Green Tea (No Added Sugar)
+world-foods	japanese	https://www.fairprice.com.sg/product/12709481	Pokka Bottle Drink Sencha Japanese Green Tea - No Sugar 
+world-foods	japanese	https://www.fairprice.com.sg/product/vietnam-prepacked-japanese-sweet-potato-750g-13067743	Vietnam Prepacked Japanese Sweet Potato
+world-foods	japanese	https://www.fairprice.com.sg/product/11882344	Crunchy Fresh Japanese Cucumber
+world-foods	japanese	https://www.fairprice.com.sg/product/12533584	Go Fresh Japanese Green
+world-foods	japanese	https://www.fairprice.com.sg/product/s-japanse-b-choy150g-13225241	Sakura Japanese Bok Choy
+world-foods	japanese	https://www.fairprice.com.sg/product/fortune-silken-tofu-japanese-with-omega-3-300g-12510147	Fortune Japanese Silken Tofu - Omega 3 DHA
+world-foods	japanese	https://www.fairprice.com.sg/product/fortune-silken-tofu-japanese-300g-157827	Fortune Silken Tofu - Japanese
+world-foods	japanese	https://www.fairprice.com.sg/product/tay-s-japanese-crispy-chicken-seaweed-1kg-13215906	Tay's Japanese Crispy Chicken - Seaweed
+world-foods	japanese	https://www.fairprice.com.sg/product/osk-japanese-green-teabags-50s-x-2g-114273	OSK Japanese Green Tea Bags
+world-foods	korean	https://www.fairprice.com.sg/product/korean-yellow-melon-1-per-pack-13130330	Korean Yellow Melon
+world-foods	korean	https://www.fairprice.com.sg/product/13135576	Betagro Yakitori - Korean Sauce
+world-foods	korean	https://www.fairprice.com.sg/product/bibigo-savoury-roasted-korean-seasoned-seaweed-12-per-pack-13129105	Bibigo Savoury Roasted Korean Seasoned Seaweed
+world-foods	korean	https://www.fairprice.com.sg/product/i-m-kimchi-korean-cabbage-kimchi-500g-13186858	I'm Kimchi Korean Cabbage Kimchi
+world-foods	korean	https://www.fairprice.com.sg/product/f-n-sparkling-zero-can-korean-peach-6-x-325ml-13259868	F & N Sparkling Zero Can - Korean Peach
+world-foods	korean	https://www.fairprice.com.sg/product/cj-bibigo-sliced-kimchi-pack-500g-12561382	CJ Bibigo Korean Sliced Kimchi
+world-foods	korean	https://www.fairprice.com.sg/product/nongshim-cup-noodles-korean-clay-pot-ramyun-70g-11798177	Nongshim Instant Cup Noodle - Korean Clay Pot
+world-foods	korean	https://www.fairprice.com.sg/product/cj-bibigo-sliced-kimchi-pack-150g-13004585	CJ Bibigo Korean Sliced Kimchi
+world-foods	korean	https://www.fairprice.com.sg/product/nongshim-instant-noodle-korean-clay-pot-5s-x-120g-11175826	Nongshim Instant Noodle - Korean Clay Pot
+world-foods	korean	https://www.fairprice.com.sg/product/cj-bibigo-korean-bulgogi-sauce-mild-sweet-500g-13241902	Cj Bibigo Korean Bulgogi Sauce - Mild & Sweet
+world-foods	korean	https://www.fairprice.com.sg/product/c-vegan-s-kimchi-500-13220952	CJ Bibigo Korean Sliced Kimchi (Vegan)
+world-foods	korean	https://www.fairprice.com.sg/product/nissin-instant-cup-noodles---korean-army-stew-13148985	Nissin Instant Cup Noodles - Korean Army Stew
+world-foods	korean	https://www.fairprice.com.sg/product/12608910	Ottogi Korean Instant Noodle - Jin Ramen (Spicy)
+world-foods	korean	https://www.fairprice.com.sg/product/ottogi-korean-instant-noodle-jin-ramen-mild-5-x-120g-12608881	Ottogi Korean Instant Noodle - Jin Ramen (Mild)
+world-foods	korean	https://www.fairprice.com.sg/product/samyang-korean-instant-noodle-potato-5-x-120g-13048791	Samyang Korean Instant Noodle - Potato
+world-foods	korean	https://www.fairprice.com.sg/product/nongshim-instant-bowl-noodle-korean-clay-pot-117g-11788470	Nongshim Instant Bowl Noodle - Korean Clay Pot
+world-foods	korean	https://www.fairprice.com.sg/product/cj-bibigo-crispy-seaweed-snack-korean-bbq-15g-13012311	CJ Bibigo Crispy Seaweed Snack - Korean BBQ
+world-foods	korean	https://www.fairprice.com.sg/product/cj-beksul-korean-sweet-potato-noodle-500g-12434447	CJ Beksul Korean Sweet Potato Noodle
+world-foods	korean	https://www.fairprice.com.sg/product/cj-bibigo-korean-sesame-oil-110ml-13257730	Cj Bibigo Korean Sesame Oil
+world-foods	korean	https://www.fairprice.com.sg/product/12295598	Singlong Korean Sweet Potato Vermicelli
+world-foods	noodles	https://www.fairprice.com.sg/product/fortune-cooked-noodle-round-420g-13001633	Fortune Hokkien Noodle - Round
+world-foods	noodles	https://www.fairprice.com.sg/product/fortune-japanese-udon-3s-600g-12536734	Fortune Japanese Udon
+world-foods	noodles	https://www.fairprice.com.sg/product/fairprice-japanese-udon-3-x-200g-13278530	FairPrice Japanese Udon
+world-foods	noodles	https://www.fairprice.com.sg/product/12536742	Fortune Noodles - Kway Teow
+world-foods	noodles	https://www.fairprice.com.sg/product/sun-brand-dried-hong-kong-yee-fu-mee-200g-10576716	Sun Brand Dried Hong Kong Yee Fu Mee
+world-foods	noodles	https://www.fairprice.com.sg/product/golden-chef-paste-prawn-noodle-soup-200g-13281096	Golden Chef Paste - Prawn Noodle Soup
+world-foods	noodles	https://www.fairprice.com.sg/product/fairprice-kway-teow-450g-13245102	FairPrice Kway Teow
+world-foods	noodles	https://www.fairprice.com.sg/product/megah-claypot-yee-mee-5s-x-375g-10956727	Megah Mee Claypot Ee Mee
+world-foods	noodles	https://www.fairprice.com.sg/product/baixiang-yummy-soup-instant-noodles-spicy-beef-soup-5-x-111g-13182158	Baixiang Yummy Soup Instant Noodles - Spicy Beef Soup
+world-foods	noodles	https://www.fairprice.com.sg/product/sing-long-white-jade-noodles-340g-456766	Singlong White Jade Noodles
+world-foods	noodles	https://www.fairprice.com.sg/product/maggi-air-fryer-marinade-paste-lemongrass-chicken-thai-style-100g-13263730	Maggi Air Fryer Marinade Paste - Lemongrass Chicken Thai-Style
+world-foods	noodles	https://www.fairprice.com.sg/product/swan-tai-ann-mee-sua-box-300g-280199	Swan Tai Ann Mee Sua Box
+world-foods	noodles	https://www.fairprice.com.sg/product/lg-noodles-yellow-1kg-13176412	LG Noodles - Yellow
+world-foods	noodles	https://www.fairprice.com.sg/product/fairprice-japanese-udon-200g-13278531	FairPrice Japanese Udon
+world-foods	noodles	https://www.fairprice.com.sg/product/sun-brand-egg-noodles-high-quality-200g-10576230	Sun Brand Dried Egg Noodles (High Quality)
+world-foods	noodles	https://www.fairprice.com.sg/product/singlong-bean-mee-tau-chiam-250g-11164588	Singlong Bean Mee (Tau Chiam)
+world-foods	noodles	https://www.fairprice.com.sg/product/fairprice-bee-tai-mak-450g-13245150	FairPrice Bee Tai Mak
+world-foods	noodles	https://www.fairprice.com.sg/product/fairprice-laksa-noodles-400g-13245143	FairPrice Laksa Bee Hoon
+world-foods	rice	https://www.fairprice.com.sg/product/royal-umbrella-thai-hom-mali-rice-13111322	Royal Umbrella Thai Hom Mali Rice
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-jasmine-fragrant-rice-5kg-13086205	FairPrice Jasmine Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/songhe-new-crop-rice-13110987	SongHe AAA Thai Hom Mali Rice - New Crop
+world-foods	rice	https://www.fairprice.com.sg/product/royal-umbrella-thai-hom-mali-rice-10kg-13111324	Royal Umbrella Thai Hom Mali Rice
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-jasmine-rice-10kg-13086203	FairPrice Jasmine Rice
+world-foods	rice	https://www.fairprice.com.sg/product/13110985	SongHe AAA Thai Hom Mali Rice
+world-foods	rice	https://www.fairprice.com.sg/product/double-fp-thai-hom-mali-premium-quality-fragrant-rice-5kg-13097846	Double FP Thai Hom Mali Premium Quality Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/songhe-thai-fragrant-rice-10kg-13110986	SongHe AAA Thai Hom Mali Rice
+world-foods	rice	https://www.fairprice.com.sg/product/okome-japanese-rice---short-grain-13113046	Okome Japanese Rice - Short Grain
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-japonica-rice-premium-short-grain-25kg-13086207	FairPrice Premium Japonica Rice - Short Grain
+world-foods	rice	https://www.fairprice.com.sg/product/golden-peony-jasmine-fragrant-rice-5kg-13182114	Golden Peony Jasmine Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-thai-brown-unpolished-rice-5kg-13181370	FairPrice Thai Brown Unpolished Rice
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-aaa-golden-royal-dragon-mixed-thai-hom-mali-rice-5kg-13081251	FairPrice AAA Golden Royal Dragon Thai White Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/13110758	Taj Basmati Low GI Rice
+world-foods	rice	https://www.fairprice.com.sg/product/13081513	Golden Phoenix Rice - Thai Hom Mali
+world-foods	rice	https://www.fairprice.com.sg/product/fairprice-gold-thai-hom-malt-superior-fragrant-rice-5kg-13097848	FairPrice Thai Hom Mali Superior Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/naturel-organic-hommali-mixed-brown-and-red-rice-2kg-13049984	Naturel Organic Rice - Mixed Brown and Red
+world-foods	rice	https://www.fairprice.com.sg/product/double-fp-thai-hom-mali-premium-quality-fragrant-rice-10kg-13098940	Double FP Thai Hom Mali Premium Quality Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/13081252	FairPrice AAA Golden Royal Dragon Thai White Fragrant Rice
+world-foods	rice	https://www.fairprice.com.sg/product/13172379	Songhe Noble Brown Rice
+world-foods	thai	https://www.fairprice.com.sg/product/sin-sin-chili-sauce-sweet-thai-315g-315g-13065885	Sin Sin Chili Sauce - Sweet Thai
+world-foods	thai	https://www.fairprice.com.sg/product/golden-chef-sweet-thai-chilli-320g-13237399	Golden Chef Sweet Thai Chilli
+world-foods	thai	https://www.fairprice.com.sg/product/13146210	Woh Hup Chilli Sauce - Thai Sweet
+world-foods	thai	https://www.fairprice.com.sg/product/knife-brand-thai-dipping-sauce-170g-13096537	Knife Brand Thai Dipping Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/singlong-thai-sweet-chilli-sauce-300g-13157253	Singlong Thai Sweet Chilli Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/sun-fortune-traditional-thai-style-chilli-sauce-250g-13282875	Sun Fortune Traditional Chilli Sauce - Thai Style
+world-foods	thai	https://www.fairprice.com.sg/product/heinz-chilli-sauce-310g-10544212	Heinz Chili Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/sin-sin-chili-sauce-extra-hot-295g-295g-13065884	Sin Sin Chili Sauce - Extra Hot
+world-foods	thai	https://www.fairprice.com.sg/product/aaa-suki-sauce-330g-13026124	AAA Spicy Suki Dipping Sauce 
+world-foods	thai	https://www.fairprice.com.sg/product/aaa-suki-sauce-330g-13131653	AAA Suki Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/tiparos-fish-sauce-700ml-11943282	Tiparos Thai Fish Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/knife-thai-fish-sauce-reduced-salt-750ml-12308723	Knife Brand Thai Fish Sauce - Reduced Salt 
+world-foods	thai	https://www.fairprice.com.sg/product/knife-thai-fish-sauce-reduced-salt-300ml-12308897	Knife Brand Thai Fish Sauce - Reduced Salt
+world-foods	thai	https://www.fairprice.com.sg/product/knife-thai-fish-sauce-750ml-10366882	Knife Brand Thai Fish Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/knife-brand-thai-fish-sauce-300ml-12206874	Knife Brand Thai Fish Sauce
+world-foods	thai	https://www.fairprice.com.sg/product/golden-elephant-thai-fish-sauce-300ml-11229054	Golden Elephant Thai Fish Sauce
