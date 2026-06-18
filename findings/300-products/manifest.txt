@@ -1,0 +1,301 @@
+# category	search_term	slug	name
+fresh-produce	apples	https://www.fairprice.com.sg/product/china-fuji-apples-5-per-pack-13198956	China Fuji Apples
+fresh-produce	apples	https://www.fairprice.com.sg/product/china-premium-fuji-apple-4-per-pack-10896998	China Premium Fuji Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/italy-red-pop-apple-700g-13228441	Italy Red Pop Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/new-zealand-queen-apple-700g-13085730	New Zealand Queen Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/hosui-pear-4s-13088207	Fresh China Brown Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/south-africa-candy-apple-500g-13040453	South Africa Candy Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/china-nam-shui-pear-3-per-pack-13058926	China Nam Shui Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/pasar-royal-gala-apples-800g-13179402	Pasar Royal Gala Apples
+fresh-produce	apples	https://www.fairprice.com.sg/product/pears-bonanza-australia-packham-pear-800g-13111623	Pears Bonanza Australia Packham Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/rockit-new-zealand-apple-5-per-pack-13287740	Rockit New Zealand Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/italy-joya-apple-700g-13287113	Italy Joya Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/korea-shingo-pear-1-5kg-13070859	Korea Shingo Pear 
+fresh-produce	apples	https://www.fairprice.com.sg/product/freshstory-bing-tang-pear-1-per-pack-13274456	Freshstory Bing Tang Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/france-organic-juliet-apple-bag-800g-13093954	France Organic Juliet Apple Bag
+fresh-produce	apples	https://www.fairprice.com.sg/product/pasar-china-golden-pear-4-per-pack-13088208	Pasar China Golden Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/china-fragrant-pear-6-per-pack-13207580	China Fragrant Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/packham-pears-800g-13273730	Packham Pears
+fresh-produce	apples	https://www.fairprice.com.sg/product/south-africa-forelle-pear-800g-13288635	South Africa Forelle Pear
+fresh-produce	apples	https://www.fairprice.com.sg/product/france-legend-apple-700g-13287100	France Legend Apple
+fresh-produce	apples	https://www.fairprice.com.sg/product/australia-corella-pear-800g-13127586	Australia Corella Pear
+fresh-produce	bananas	https://www.fairprice.com.sg/product/sumifru-poongmi-wang-banana-820g-13137901	Sumifru Poongmi Wang Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/sumifru-kamsookwang-banana-820g-13137900	Sumifru Kamsookwang Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/sumifru-kamsookwang-banana-300g-13129810	Sumifru Kamsookwang Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/sumifru-rose-banana-1-per-pack-13102643	Sumifru Rose Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/orgo-fresh-pisang-mas-banana	Agro Fresh Pisang Mas Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/yayapapaya-aloha-banana-90074796	YayaPapaya Aloha Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/good-nature-organic-banana-500-g-90089344	ZENXIN Organic Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/good-nature-organic-sweet-banana-400-g-90089364	ZENXIN Organic Sweet Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/pasar-thailand-banana-leaves-250g-11912873	Pasar Thailand Banana Leaves
+fresh-produce	bananas	https://www.fairprice.com.sg/product/orgo-fresh-banana-leaf-slim-cut-daun-pisang-100-g-90150990	Agro Fresh Banana Leaf Slim Cut (Daun Pisang)
+fresh-produce	bananas	https://www.fairprice.com.sg/product/freshco-banana-shallots-200-g-90103414	Banana Shallots
+fresh-produce	bananas	https://www.fairprice.com.sg/product/sumifru-cavendish-banana-700g-13102605	Sumifru Philippines Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/post-great-grain-banana-nut-crunch-439g-13020957	Post Great Grains Cereal - Banana Nut Crunch
+fresh-produce	bananas	https://www.fairprice.com.sg/product/marigold-hl-milk-banana-946ml-10977034	Marigold HL Milk - Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/rafferty-s-garden-baby-food-blueberry-banana-apple-120g-12302241	Rafferty's Garden Baby Food - Blueberry- Banana & Apple
+fresh-produce	bananas	https://www.fairprice.com.sg/product/13097334	Wel.B Freeze Dried Fruit - Strawberry & Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/gerber-graduates-puffs-banana-42g-11068182	Gerber Graduates Baby Puffs - Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/binggrae-flavoured-packet-light-milk-banana-6-x-200ml-13237071	Binggrae Flavoured Packet Light Milk - Banana
+fresh-produce	bananas	https://www.fairprice.com.sg/product/gerber-baby-multigrain-cereal-banana-apple-strawberry-227g-13136385	Gerber Baby MultiGrain Cereal - Banana- Apple & Strawberry
+fresh-produce	bananas	https://www.fairprice.com.sg/product/vitasoy-soymlik-packet-drink-banana-6-x-250ml-13261538	Vitasoy Soymilk Packet Drink - Banana
+fresh-produce	leafy	https://www.fairprice.com.sg/product/chef-nai-bai-200g-13236467	Chef Nai Bai
+fresh-produce	leafy	https://www.fairprice.com.sg/product/simply-finest-xiao-bai-cai-300g-13167889	Simply Finest Xiao Bai Cai
+fresh-produce	leafy	https://www.fairprice.com.sg/product/simply-finest-spinach-round-300g-13167829	Simply Finest Round Spinach
+fresh-produce	leafy	https://www.fairprice.com.sg/product/simply-finest-kang-kong-300g-13167828	Simply Finest Kang Kong
+fresh-produce	leafy	https://www.fairprice.com.sg/product/simply-finest-spinach-red-300g-13167886	Simply Finest Red Spinach
+fresh-produce	leafy	https://www.fairprice.com.sg/product/pasar-baby-kailan-200g-10768515	Pasar Baby Kailan
+fresh-produce	leafy	https://www.fairprice.com.sg/product/13001088	Kok Fah Baby Sweet Potato Leaves
+fresh-produce	leafy	https://www.fairprice.com.sg/product/chef-chinese-spinach-phuay-leng-200g-13236468	Chef Chinese Spinach (Phuay Leng)
+fresh-produce	leafy	https://www.fairprice.com.sg/product/china-shanghai-green-baby-300g-12156192	China Shanghai Green Baby
+fresh-produce	leafy	https://www.fairprice.com.sg/product/chef-yau-mak-chye-200g-13236469	Chef Yau Mak Chye
+meat-seafood	beef	https://www.fairprice.com.sg/product/amirs-minced-beef-300g-11857923	Amir's Premium Frozen Meat - Minced Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/13140200	Chef Delights Frozen Beef Shabu Shabu
+meat-seafood	beef	https://www.fairprice.com.sg/product/amirs-frozen-stir-fry-beef-200g-12154330	Amir's Premium Frozen Meat - Stir Fry Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/10690439	AL-Baqa Frozen Minced Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/11124105	Armiya Frozen Beef Meat Ball
+meat-seafood	beef	https://www.fairprice.com.sg/product/knorr-stock-cubes-beef-60g-11865288	Knorr Stock Cubes - Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/highway-corned-beef-340g-10784582	Highway Corned Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/farmpride-gourmet-beef-burger-420g-13226008	Farmpride Gourmet Burger Patties - Beef with Cheddar Cheese
+meat-seafood	beef	https://www.fairprice.com.sg/product/amirs-beef-cube-500g-11396397	Amir's Premium Frozen Meat - Beef Cube
+meat-seafood	beef	https://www.fairprice.com.sg/product/libby-s-corned-beef-340g-50617	Libby's Corned Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/chef-delights-frozen-beef-cube-500g-13222936	Chef Delights Frozen Beef Cube
+meat-seafood	beef	https://www.fairprice.com.sg/product/13140195	Chef Delights Frozen Minced Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/amirs-beef-shabu-shabu-400g-11977554	Amir's Premium Frozen Meat - Beef Shabu Shabu
+meat-seafood	beef	https://www.fairprice.com.sg/product/campbells-real-stock-beef-1lt-12571193	Campbell's 100% Natural Real Stock - Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/lion-dance-chaoshan-beef-ball-400g-13228516	Lion Dance Chao Shan Beef Balls - Original
+meat-seafood	beef	https://www.fairprice.com.sg/product/13160438	Kang Shi Fu Instant Noodles - Roasted Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/chef-delights-frozen-beef-ribeye-shabu-200ml-13240773	Chef Delights Frozen Beef Ribeye Shabu
+meat-seafood	beef	https://www.fairprice.com.sg/product/lion-dance-beef-ball-200g-157596	Lion Dance Beef Ball 
+meat-seafood	beef	https://www.fairprice.com.sg/product/campbell-s-100-natural-real-stock-beef-500ml-13018832	Campbell's 100% Natural Real Stock - Beef
+meat-seafood	beef	https://www.fairprice.com.sg/product/amir-s-premium-frozen-meat-beef-rib-eye-steak-500g-11396493	Amir's Premium Frozen Meat - Beef Rib Eye Steak
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-boneless-breast-300g-13097675	Kee Song Fresh Chicken - Boneless Breast
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-kampong-900g-13097670	Kee Song Fresh Chicken - Kampong
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-thighs-300g-13097673	Kee Song Fresh Chicken - Thighs
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-whole-leg-300g-13097679	Kee Song Fresh Chicken - Whole Leg
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-minced-300g-13097678	Kee Song Fresh Chicken - Minced
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-whole-1-4kg-13097674	Kee Song Fresh Chicken - Whole
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-black-400g-13097671	Kee Song Fresh Chicken - Black
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-wings-300g-13097672	Kee Song Fresh Chicken - Wings
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-mid-joint-wings-300g-13097629	Kee Song Fresh Chicken - Mid Joint Wings
+meat-seafood	chicken	https://www.fairprice.com.sg/product/kee-song-fresh-chicken-drumstick-300g-13097677	Kee Song Fresh Chicken - Drumstick
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-boneless-breast-350g-13282982	Sakura Fresh Chicken - Boneless Skinless Breast 
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-drumstick-200g-13282973	Sakura Fresh Chicken - Drumstick
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-thigh-350g-13282954	Sakura Fresh Chicken - Thigh
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-boneless-leg-350g-13282927	Sakura Fresh Chicken - Boneless Leg
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-fillet-200g-13282983	Sakura Fresh Chicken - Fillet
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sakura-fresh-chicken-3-joint-wings-350g-13282980	Sakura Fresh Chicken - 3 Joint Wings
+meat-seafood	chicken	https://www.fairprice.com.sg/product/seara-freshly-frozen-chicken-legs-boneless-2kg-13176928	Seara Frozen Chicken - Legs (Boneless)
+meat-seafood	chicken	https://www.fairprice.com.sg/product/seara-iqf-chicken-wings-mid-joint-1kg-13204200	Seara IQF Chicken Wings - Mid-Joint
+meat-seafood	chicken	https://www.fairprice.com.sg/product/seara-freshly-frozen-chicken-wings-2kg-13174421	Seara Frozen Chicken Wings
+meat-seafood	chicken	https://www.fairprice.com.sg/product/sadia-frozen-chicken-boneless-leg-meat-2kg-10849841	Sadia Frozen Chicken Boneless Leg Meat
+meat-seafood	fish	https://www.fairprice.com.sg/product/ocean-fresh-delite-frozen-salmon-portion-500g-13106181	Ocean Fresh Delite Frozen Salmon Portion
+meat-seafood	fish	https://www.fairprice.com.sg/product/seawaves-frozen-premium-cuttlefish-ball-200g-13026839	Seawaves Frozen Premium Cuttlefish Ball
+meat-seafood	fish	https://www.fairprice.com.sg/product/seawaves-frozen-premium-prawn-ball-200g-13026840	Seawaves Frozen Premium Prawn Ball
+meat-seafood	fish	https://www.fairprice.com.sg/product/okeanoss-iqf-shrimp-meat-tail-off-400g-13047093	Okeanoss Frozen IQF Shrimp Meat (Tail Off)
+meat-seafood	fish	https://www.fairprice.com.sg/product/seaco-scallops-medallion-200g-13282484	Seaco Scallops Medallion
+meat-seafood	fish	https://www.fairprice.com.sg/product/peng-wang-cheese-tofu-200g-10939505	Peng Wang Cheese Tofu
+meat-seafood	fish	https://www.fairprice.com.sg/product/ocean-fresh-delite-frozen-paste-shrimp-150g-13255679	Ocean Fresh Delite Frozen Paste - Shrimp
+meat-seafood	fish	https://www.fairprice.com.sg/product/fairprice-flavoured-crab-sticks-250g-496118	FairPrice Frozen Crab Sticks
+meat-seafood	fish	https://www.fairprice.com.sg/product/ocean-fresh-delite-frozen-paste-fish-roe-shrimp-150g-13258792	Ocean Fresh Delite Frozen Paste - Fish Roe Shrimp
+meat-seafood	fish	https://www.fairprice.com.sg/product/wk-muar-fish-otak-otak-chunky-180g-13058259	WK Muar Fish Otah - Chunky
+household	cleaning	https://www.fairprice.com.sg/product/magiclean-natural-plant-based-surface-cleaner-300ml-13102750	Magiclean Natural Plant-based Surface Cleaner
+household	cleaning	https://www.fairprice.com.sg/product/fairprice-glass-cleaner-extra-shine-500ml-13188192	FairPrice Glass Cleaner Spray with Refill - Extra Shine
+household	cleaning	https://www.fairprice.com.sg/product/fairprice-multi-purpose-cleaner-lavender-2l-13214893	FairPrice Multi Purpose Cleaner - Lavender
+household	cleaning	https://www.fairprice.com.sg/product/fairprice-multi-purpose-cleaner-green-apple-2l-13214894	FairPrice Multi Purpose Cleaner - Apple Fresh
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-pe-disposable-gloves-free-size-100-per-pack-13200909	HomeProud PE Disposable Gloves - Free Size
+household	cleaning	https://www.fairprice.com.sg/product/13132860	Pigeon Liquid Cleanser - Twin Refill Pack
+household	cleaning	https://www.fairprice.com.sg/product/fairprice-bathroom-stain-mold-remover-refill-2-x-520ml-13226210	FairPrice Bathroom Stain & Mold Remover Refill
+household	cleaning	https://www.fairprice.com.sg/product/clorox-disinfecting-cleaning-wipes-fresh-scent-75-per-pack-13126728	Clorox Disinfecting Cleaning Wipes - Fresh Scent
+household	cleaning	https://www.fairprice.com.sg/product/clorox-disinfecting-cleaning-wipes-crisp-lemon-75-per-pack-13147649	Clorox Disinfecting Cleaning Wipes - Crisp Lemon
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-cpe-disposable-gloves-free-size-50-per-pack-13200908	HomeProud CPE Disposable Gloves - Free Size
+household	cleaning	https://www.fairprice.com.sg/product/kodomo-baby-bottle-accessories-cleanser-750ml-11194584	Kodomo Baby Cleanser - Bottle & Accessories
+household	cleaning	https://www.fairprice.com.sg/product/paseo-anti-bacterial-cleaning-wipes-2-x-25s-13173314	Paseo Anti Bacterial Cleaning Wipes
+household	cleaning	https://www.fairprice.com.sg/product/scotch-brite-all-purpose-cleaning-pad-630021	3M Scotch-Brite Scrub Sponge - All Purpose Cleaning Pad
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-latex-household-gloves-m-1-per-pack-13200933	HomeProud Latex Household Gloves - M
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-latex-disposable-gloves-free-size-25-per-pack-13200932	HomeProud Latex Disposable Gloves - Free Size
+household	cleaning	https://www.fairprice.com.sg/product/woosh-antibacterial-pet-wipes-baby-powder-scented-100-per-pack-13242430	Woosh Antibacterial Pet Wipes - Baby Powder Scented
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-latex-household-gloves-free-size-extra-long-1-per-pack-13200930	HomeProud Latex Household Gloves - Free Size (Extra Long)
+household	cleaning	https://www.fairprice.com.sg/product/3m-scotch-brite-multi-purpose-gloves-fresh-lemon-m-1-per-pack-10426806	3M Scotch-Brite Multi-Purpose Gloves - Fresh Lemon (M)
+household	cleaning	https://www.fairprice.com.sg/product/homeproud-latex-household-gloves-l-1-per-pack-13200931	HomeProud Latex Household Gloves - L
+household	cleaning	https://www.fairprice.com.sg/product/pigeon-baby-liquid-cleanser-700ml-13101786	Pigeon Baby Liquid Cleanser
+household	detergent	https://www.fairprice.com.sg/product/attack-concentrated-liquid-detergent-ultra-power-4kg-13060234	Attack Liquid Detergent - Ultra Power (Aromatic Floral)
+household	detergent	https://www.fairprice.com.sg/product/top-concentrated-liquid-detergent-refill---super-low-suds-13146960	Top Concentrated Liquid Detergent Refill - Super Low Suds
+household	detergent	https://www.fairprice.com.sg/product/dynamo-l-detg-anti-bac-ref-2-2kg-13239702	Dynamo Laundry Detergent Refill - Anti-Bacterial
+household	detergent	https://www.fairprice.com.sg/product/attack-detergentsoftener-3d-clean-action-36kg-13060233	Attack Liquid Detergent - Plus Softener (Sweet Floral)
+household	detergent	https://www.fairprice.com.sg/product/top-concentrated-liquid-detergent-refill-anti-bacterial-1-6kg-13146935	Top Concentrated Liquid Detergent Refill - Anti-Bacterial
+household	detergent	https://www.fairprice.com.sg/product/fairprice-laundry-liquid-detergent-anti-bacterial-1-8l-13187770	FairPrice Laundry Liquid Detergent - Anti-Bacterial
+household	detergent	https://www.fairprice.com.sg/product/dynamo-l-dtg3x-odor-r-rfill-2-4kg-13239713	Dynamo Laundry Detergent Refill - 3X Odor Remover 
+household	detergent	https://www.fairprice.com.sg/product/12708353	Attack Liquid Detergent - Ultra Power (Aromatic Floral)
+household	detergent	https://www.fairprice.com.sg/product/persil-concentrated-liquid-detergent-superior-clothes-care-3l-13016671	Persil Concentrated Liquid Detergent - Front Load
+household	detergent	https://www.fairprice.com.sg/product/dynamo-laundry-detergent-refill-eau-de-rose-2-4kg-13239701	Dynamo Laundry Detergent Refill - Eau De Rose
+household	detergent	https://www.fairprice.com.sg/product/attack-powder-detergent-enzyme-power-aromatic-floral-3kg-13034947	Attack Powder Detergent - Ultra Power (Aromatic Floral)
+household	detergent	https://www.fairprice.com.sg/product/attack-powder-detergent-plus-colour-aroma-fresh-3kg-13034946	Attack Powder Detergent - Plus Colour (Aroma Fresh)
+household	detergent	https://www.fairprice.com.sg/product/top-concentrated-liquid-detergent-refill---super-colour-13146936	Top Concentrated Liquid Detergent Refill - Super Colour
+household	detergent	https://www.fairprice.com.sg/product/attack-powder-detergent-plus-softener-sweet-floral-2-8kg-13034949	Attack Powder Detergent - Plus Softener (Sweet Floral)
+household	detergent	https://www.fairprice.com.sg/product/t-l-dtg-rf-c-pro-200-13257109	Top Liquid Detergent Refill - Low Suds Colour Protect
+household	detergent	https://www.fairprice.com.sg/product/dynamo-l-dtrg-c-care-refill-2-4kg-13239710	Dynamo Laundry Detergent Refill - Color Care 
+household	detergent	https://www.fairprice.com.sg/product/fairprice-laundry-liquid-detergent-flora-1-8l-13187754	FairPrice Laundry Liquid Detergent - Flora
+household	detergent	https://www.fairprice.com.sg/product/top-concentrated-liquid-detergent-refill---anti-bacterial-13158684	Top Concentrated Liquid Detergent Refill - Anti-Bacterial
+household	detergent	https://www.fairprice.com.sg/product/persil-concentrated-liquid-detergent-anti-bacterial-2-7l-13101654	Persil Concentrated Liquid Detergent - Anti-Bacterial
+household	detergent	https://www.fairprice.com.sg/product/t-l-dtg-rf-at-bc-200-13257110	Top Liquid Detergent Refill - Anti Bacterial
+household	laundry	https://www.fairprice.com.sg/product/soaply-laundry-detergent-colour-magnificent-magnolia-bulk-buy-6-x-6l-90192633	Soaply Laundry Detergent Colour Magnificent Magnolia Bulk Buy
+household	laundry	https://www.fairprice.com.sg/product/fairprice-bleach-extra-white-4l-13226757	FairPrice Bleach - Extra White
+household	laundry	https://www.fairprice.com.sg/product/soaply-laundry-detergent-universal-dazzling-jasmine-bulk-buys-6-x-6l-90192634	Soaply Laundry Detergent Universal Dazzling Jasmine Bulk Buys
+household	laundry	https://www.fairprice.com.sg/product/ka-4in1-laundry-capsules-bundle-anti-bacterial-100-per-pack-13287091	Ka 4in1 Laundry Capsules Bundle - Anti-Bacterial
+household	laundry	https://www.fairprice.com.sg/product/soaply-laundry-detergent-colour-magnificent-magnolia-1-x-1l-90192563	Soaply Laundry Detergent Colour Magnificent Magnolia
+household	laundry	https://www.fairprice.com.sg/product/fairprice-laundry-capsules-refill-freesia-40-per-pack-13278076	FairPrice Laundry Capsules Refill - Freesia
+household	laundry	https://www.fairprice.com.sg/product/soaply-laundry-detergent-universal-dazzling-jasmine-1-x-1l-90192564	Soaply Laundry Detergent Universal Dazzling Jasmine
+household	laundry	https://www.fairprice.com.sg/product/fairprice-laundry-capsules-refill-gardenia-40-per-pack-13278077	FairPrice Laundry Capsules Refill - Gardenia
+household	laundry	https://www.fairprice.com.sg/product/fab-laundry-powder-anti-bacterial-3kg-13244050	Fab Laundry Powder - Anti-Bacterial
+household	laundry	https://www.fairprice.com.sg/product/dynamo-l-dtg-anti-bctr-refl-3kg-13239714	Dynamo Laundry Detergent Refill - Anti-Bacterial
+baby-care	baby	https://www.fairprice.com.sg/product/fairprice-baby-wipes-with-lid-pure-water-3-x-80-per-pack-13270455	FairPrice Baby Wipes with Lid - 100% Pure Water
+baby-care	baby	https://www.fairprice.com.sg/product/kodomo-baby-laundry-detrgt-nat-care-rf-blue-1lt-10069693	Kodomo Baby Laundry Detergent Refill - Nature Care 
+baby-care	baby	https://www.fairprice.com.sg/product/huggies-baby-wet-wipes-clean-care-3-x-80-per-pack-13050765	Huggies Baby Wet Wipes - Clean Care
+baby-care	baby	https://www.fairprice.com.sg/product/kodomo-baby-powder-smooth-comfort-2s-x-500g-10346558	Kodomo Baby Powder - Smooth Comfort
+baby-care	baby	https://www.fairprice.com.sg/product/fairprice-baby-wipes-refill-scented-150-per-pack-13270456	FairPrice Baby Wipes Refill - Scented
+baby-care	baby	https://www.fairprice.com.sg/product/pigeon-aqua-baby-wipes-6-x-70-per-pack-13273621	Pigeon Aqua Baby Wipes - Hard Lid Cover
+baby-care	baby	https://www.fairprice.com.sg/product/take-one-baby-bites-vegetable-taste-50g-10427526	Take One Baby Bites - Vegetable
+baby-care	baby	https://www.fairprice.com.sg/product/fairprice-baby-wipes-with-lid-unscented-3-x-80-per-pack-13270457	FairPrice Baby Wipes with Lid - Unscented
+baby-care	baby	https://www.fairprice.com.sg/product/little-blossom-organic-brown-rice-puffs-strawberry-40g-13212833	Little Blossom Organic Brown Rice Puffs - Strawberry
+baby-care	baby	https://www.fairprice.com.sg/product/huggies-baby-wet-wipes-pure-clean-3-x-20-per-pack-13050760	Huggies Baby Wet Wipes - Clean Care
+baby-care	baby	https://www.fairprice.com.sg/product/baby-bites-rice-rust-blueberry-goji-24-per-pack-13206090	Baby Bites Rice Rust - Blueberry & Goji
+baby-care	baby	https://www.fairprice.com.sg/product/fairprice-baby-wipes-scent-180-per-pack-13270454	FairPrice Baby Wipes - Scent
+baby-care	baby	https://www.fairprice.com.sg/product/bahlsen-zoo-jungle-biscuit-cocoa-100g-13046017	Bahlsen Zoo Biscuits - Jungle (Cocoa)
+baby-care	baby	https://www.fairprice.com.sg/product/take-one-baby-bites-carrot-50g-11034687	Take One Baby Bites - Carrot
+baby-care	baby	https://www.fairprice.com.sg/product/kodomo-baby-laundry-low-suds-detergent-refill-900ml-13059280	Kodomo Baby Laundry Detergent Refill - Low Suds 
+baby-care	baby	https://www.fairprice.com.sg/product/little-blossom-organic-brown-rice-puffs-sweet-potato-40g-13212840	Little Blossom Organic Brown Rice Puffs - Sweet Potato
+baby-care	baby	https://www.fairprice.com.sg/product/l-blossom-apple-broccoli-puffs-40g-13212834	Little Blossom Organic Baby Puffs - Apple Broccoli 
+baby-care	baby	https://www.fairprice.com.sg/product/kodomo-baby-bath-refill-moisturizing-650ml-11518470	Kodomo Baby Bath Wash Refill - Moisturizing
+baby-care	baby	https://www.fairprice.com.sg/product/pigeon-wet-tissues-hand-mouth-2-x-60s-13101790	Pigeon Baby Wet Tissues - Hand & Mouth
+baby-care	baby	https://www.fairprice.com.sg/product/fairprice-baby-wipes-travel-pack-2-x-30-per-pack-13270542	FairPrice Baby Wipes -Travel Pack
+baby-care	diapers	https://www.fairprice.com.sg/product/ctn-peachy-bum-cloud-soft-pant-diapers---xl	[CTN] Peachy Bum Cloud Soft Pant Diapers - XL
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-diaper-pants-l-10-per-pack-13180731	FairPrice Adult Diaper Pants - L
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-underpads-l-10-per-pack-13234479	FairPrice Adult Underpads - L
+baby-care	diapers	https://www.fairprice.com.sg/product/peachy-bum-cloud-soft-pant-diapers-trial-pack---xxl	Peachy Bum Cloud Soft Pant Diapers Trial Pack - XXL
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-diaper-pants-l-4-x-10-per-pack-ctn-12710416	FairPrice Adult Diaper Pants - L
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-diaper-pants-m-10-per-pack-13180730	FairPrice Adult Diaper Pants - M
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-baby-dry-diaper-pants-xl-12-17kg-46-per-pack-46-per-pack-13180718	FairPrice Baby Dry Diaper Pants - XL (12 - 17kg)
+baby-care	diapers	https://www.fairprice.com.sg/product/peachy-bum-cloud-soft-pant-diapers-single---xxl	Peachy Bum Cloud Soft Pant Diapers Single - XXL
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-baby-dry-diaper-pants-xxl-15kg-and-above-36-per-pack-13226448	FairPrice Baby Dry Diaper Pants - XXL (15kg and above)
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-ultra-taped-diapers-l-10-per-pack-13234477	FairPrice Adult Ultra Taped Diapers - L
+baby-care	diapers	https://www.fairprice.com.sg/product/peachy-bum-cloud-soft-pant-diapers-single---xl	Peachy Bum Cloud Soft Pant Diapers Single - XL
+baby-care	diapers	https://www.fairprice.com.sg/product/ctn-peachy-bum-cloud-soft-pant-diapers---xxl	[CTN] Peachy Bum Cloud Soft Pant Diapers - XXL
+baby-care	diapers	https://www.fairprice.com.sg/product/fp-a-diaper-pant-8s-13235710	FairPrice Adult Diapers Pants - XL 
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-adult-diaper-pants-m-4-x-10-per-pack-ctn-12710415	FairPrice Adult Diaper Pants - M
+baby-care	diapers	https://www.fairprice.com.sg/product/merries-pants-diaper-xxl-15-28kg-26-per-pack-13239781	Merries Pants Diaper - XXL (15 - 28kg)
+baby-care	diapers	https://www.fairprice.com.sg/product/smartchoice-adult-taped-diaper-l-9-per-pack-13234478	SmartChoice Adult Taped Diaper - L
+baby-care	diapers	https://www.fairprice.com.sg/product/huggies-baby-diaper-platinum-naturemade-pants-l-9-14kg-44-per-pack-13184541	Huggies Baby Diaper Platinum Naturemade Pants - L (9-14kg)
+baby-care	diapers	https://www.fairprice.com.sg/product/huggies-baby-diaper-platinum-naturemade-pants-xxl-15kg-26-per-pack-13184546	Huggies Baby Diaper Platinum Naturemade Pants - XXL (15kg)
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-unisex-adult-diapers-pants-plus-m-14-per-pack-13275380	FairPrice Unisex Adult Diapers Pants Plus - M
+baby-care	diapers	https://www.fairprice.com.sg/product/fairprice-easy-wear-diaper-pants-l-9-14kg-28-per-pack-13180719	FairPrice Baby Dry Diaper Pants - L (9 - 14kg)
+baby-care	formula	https://www.fairprice.com.sg/product/palmer-s-cocoa-butter-formula-massage-lotion-for-stretch-marks-250ml-13013346	Palmer's Cocoa Butter Formula Massage Lotion for Stretch Marks
+baby-care	formula	https://www.fairprice.com.sg/product/hot-wheels-formula-1-5-car-pack	Hot Wheels Formula 1 5 Car Pack
+baby-care	formula	https://www.fairprice.com.sg/product/enfagrow-pro-a-growing-up-milk-powder-formula-stage-3-2-x-1-65kg-800g-13284897	Enfagrow Pro A+ Growing Up Milk Powder Formula - Stage 3
+baby-care	formula	https://www.fairprice.com.sg/product/nestle-nan-supremepro-h-a-milk-formula-stage-3-800g-13216338	Nestle Nan Supremepro H.A Milk Formula - Stage 3
+baby-care	formula	https://www.fairprice.com.sg/product/enfagrow-pro-a-growing-up-milk-powder-formula-stage-3-1-8kg-13200320	Enfagrow Pro A+ Growing Up Milk Powder Formula - Stage 3
+baby-care	formula	https://www.fairprice.com.sg/product/isomil-s3-soy-intelli-pro-growing-up-milk-850g-13057291	Abbott Isomil Growing Up Soy Milk Formula - Step 3
+baby-care	formula	https://www.fairprice.com.sg/product/friso-gold-growing-up-milk-formula-stage-3-2-x-1-8kg-13270964	Friso Gold Growing Up Milk Formula - Stage 3
+baby-care	formula	https://www.fairprice.com.sg/product/enfagrow-pro-a-growing-up-milk-powder-formula-stage-3-800g-13226927	Enfagrow Pro A+ Growing Up Milk Powder Formula - Stage 3
+baby-care	formula	https://www.fairprice.com.sg/product/abbott-grow-toddler-growing-up-milk-formula-stage-3-900g-13131001	Abbott Grow Toddler Stage 3 Milk Formula – 1 to 3 Years
+baby-care	formula	https://www.fairprice.com.sg/product/karihome-goat-milk-growing-up-formula-stage-3-900g-13210795	Karihome Goat Milk Growing Up Formula - Stage 3
+pet-care	cat	https://www.fairprice.com.sg/product/sheba cat-food-tuna-white-meat-snapper-85g-13025654	Sheba Cat Can Food - Tuna White Meat with Chicken in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/tuna-and-white-fish-in-gravy-85g-13101273	Sheba Cat Can Food - Tuna White Meat & White Fish in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-food-flaked-tuna-white-meat-85g-13007278	Sheba Cat Can Food - Tuna White Meat in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-can-food---tuna-and-salmon-in-gravy-13089276	Sheba Cat Can Food - Tuna White Meat with Salmon Surimi in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-cat-can-food-tuna-salmon-in-gravy-85g-13236835	Petpal Cat Can Food - Tuna & Salmon in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-tuna-snapper-gravy-85g-13254525	Petpal Cat Can Food - Tuna & Snapper in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-tuna-white-meat-with-shredded-crab-85g-13007272	Sheba Cat Can Food -  Tuna White Meat with Kanikama in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-can-food---succulent-chicken-breast-with-salmon-13089273	Sheba Cat Can Food - Succulent Chicken Breast with Salmon
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-cat-can-food-tuna-in-gravy-85g-13236834	Petpal Cat Can Food - Tuna in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-food-pure-tuna-white-meat-85g-13007257	Sheba Cat Can Food - Tuna White Meat in Jelly
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-food-chicken-flakes-85g-13025653	Sheba Cat Can Food - Tender Chicken Fine Flakes
+pet-care	cat	https://www.fairprice.com.sg/product/sheba-cat-can-food-tuna-with-prawn-in-jelly-85g-13007259	Sheba Cat Can Food -  Tuna White Meat with Prawn in Jelly
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-cat-can-food-tuna-shrimp-in-gravy-85g-13236833	Petpal Cat Can Food - Tuna & Shrimp in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/fancy-feast-classic-cat-food-tender-liver-chicken-85g-472580	Fancy Feast Classic Cat Food - Tender Liver & Chicken
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-chk-breast-w-seabass-85g-13264327	Petpal Cat Can Food - Chicken Breast with Seabass in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-bentonite-cat-litter-5l-13236832	Petpal Bentonite Cat Litter
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-chk-salmon-in-gravy-85g-13264326	Petpal Cat Can Food - Chicken & Salmon in Gravy
+pet-care	cat	https://www.fairprice.com.sg/product/catsan-cat-ultra-odour-control-formula-liter-5lt-11004584	Catsan Cat Liter - Ultra Odour Control Formula 
+pet-care	cat	https://www.fairprice.com.sg/product/fancy-feast-classic-cat-food-savory-salmon-85g-11473778	Fancy Feast Classic Cat Food - Savory Salmon
+pet-care	cat	https://www.fairprice.com.sg/product/petpal-tuna-w-mt-w-shrd-crb-85g-13254526	Petpal Cat Can Food - Tuna with Crab
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-tender-lamb-with-country-vegetables-100g-10623850	Cesar Dog Wet Food - Tender Lamb with Country Vegetables
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-lamb-100g-369092	Cesar Dog Wet Food - Lamb
+pet-care	dog	https://www.fairprice.com.sg/product/woosh-antibacterial-pet-wipes-baby-powder-scented-100-per-pack-13242430	Woosh Antibacterial Pet Wipes - Baby Powder Scented
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-salmon-sweet-potato-carrot-85g-13259165	Cesar Dog Wet Food - Salmon Sweet Potato & Carrot
+pet-care	dog	https://www.fairprice.com.sg/product/pedigree-dentastix-dog-treat---large-dog-13099579	Pedigree Dentastix Dog Treat - Large Dogs
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-beef-and-vegetables-100g-369084	Cesar Dog Wet Food - Beef and Vegetables
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-prime-beef-with-vegetables-100g-12136693	Cesar Dog Wet Food - Prime Beef with Vegetables
+pet-care	dog	https://www.fairprice.com.sg/product/jerhigh-healthy-dog-snacks-carrot-70g-12020455	JerHigh Healthy Dog Snacks - Carrot
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-beef-100g-10414960	Cesar Dog Wet Food - Beef
+pet-care	dog	https://www.fairprice.com.sg/product/natures-gift-dog-food-lamb-pasta-vegetable-700g-11252967	Nature's Gift Meal Time Dog Can Food - Lamb Pasta & Vegetables
+pet-care	dog	https://www.fairprice.com.sg/product/13066619	SmartHeart Adult Dry Dog Food - Roast Beef
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-chicken-100g-369076	Cesar Dog Wet Food - Chicken
+pet-care	dog	https://www.fairprice.com.sg/product/11252932	Nature's Gift Meal Time Dog Can Food - Beef Barley & Vegetables
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-beef-and-liver-100g-369109	Cesar Dog Wet Food - Beef and Liver
+pet-care	dog	https://www.fairprice.com.sg/product/purina-supercoat-adult-small-breed-dry-dog-food-chicken-1-4kg-13236512	Purina Supercoat Adult Small Breed Dry Dog Food - Chicken
+pet-care	dog	https://www.fairprice.com.sg/product/pedigree-dog-food-home-style-beef-700g-11228318	Pedigree Home Style Dog Wet Food - Beef
+pet-care	dog	https://www.fairprice.com.sg/product/jerhigh-energy-dog-snacks-beef-70g-13093611	JerHigh Energy Dog Snacks - Beef
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-australian-beef-85g-13194009	Cesar Dog Wet Food - Australian Beef
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-free-range-chicken-85g-13194005	Cesar Dog Wet Food - Free Range Chicken
+pet-care	dog	https://www.fairprice.com.sg/product/cesar-dog-wet-food-australian-turkey-85g-13194006	Cesar Dog Wet Food - Australian Turkey
+pet-care	food	https://www.fairprice.com.sg/product/delicato-chicken-breast-black-pepper-90g-13270264	Delicato Chicken Breast - Black Pepper
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-whole-mushrooms-425g-10458605	Narcissus Can Food - Whole Mushrooms
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-braised-peanuts-170g-13055480	Narcissus Can Food - Braised Peanuts
+pet-care	food	https://www.fairprice.com.sg/product/nissin-instant-noodles-sesame-oil-5s-x-85g-54479	Nissin Instant Noodles - Sesame Oil
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-whole-mushrooms-198g-30809	Narcissus Can Food - Whole Mushrooms
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-spiced-pork-cubes-142g-13056856	Narcissus Can Food - Spiced Pork Cubes
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-can-food-minced-pork-with-bean-paste-180g-13055485	Narcissus Can Food - Minced Pork with Bean Paste
+pet-care	food	https://www.fairprice.com.sg/product/best-foods-mayonnaise-430ml-113027	Best Foods Mayonnaise
+pet-care	food	https://www.fairprice.com.sg/product/nissin-cup-noodle-kyushu-white-75g-13072127	Nissin Instant Cup Noodles - Kyushu White
+pet-care	food	https://www.fairprice.com.sg/product/narcissus-pork-leg-with-mushroom-397g-13056873	Narcissus Can Food - Pork Leg with Mushroom
+frozen	cream	https://www.fairprice.com.sg/product/pringles-p-crisps-sour-crm-on-42g-12713750	Pringles Potato Crisps - Sour Cream & Onion
+frozen	cream	https://www.fairprice.com.sg/product/bulla-splits-ice-cream-sticks-lemon-lime-raspberry-mango-10-per-pack-13285022	Bulla Splits Ice Cream Sticks - Lemon-Lime, Raspberry, Mango
+frozen	cream	https://www.fairprice.com.sg/product/bulla-splits-ice-cream-sticks-orange-tropical-wildberry-10-per-pack-13285019	Bulla Splits Ice Cream Sticks - Orange, Tropical, Wildberry
+frozen	cream	https://www.fairprice.com.sg/product/pringles-potato-crisps-sour-cream-onion-12-x-134g-ctn-12712613	Pringles Potato Crisps - Sour Cream & Onion
+frozen	cream	https://www.fairprice.com.sg/product/bulla-splits-ice-cream-sticks-raspberry-10-per-pack-13285008	Bulla Splits Ice Cream Sticks - Raspberry
+frozen	cream	https://www.fairprice.com.sg/product/f-n-can-drink-cool-ice-cream-soda-24-x-325ml-ctn-10020084	F & N Can Drink - Cool Ice Cream Soda
+frozen	cream	https://www.fairprice.com.sg/product/fanta-can-drink-cream-soda-12-x-320ml-13275045	Fanta Can Drink - Cream Soda
+frozen	cream	https://www.fairprice.com.sg/product/pringles-potato-crisps-sour-cream-onion-150g-12387644	Pringles Potato Crisps - Sour Cream & Onion
+frozen	cream	https://www.fairprice.com.sg/product/f-n-flavoured-bottle-drink-cool-ice-cream-soda-12-x-1-5l-ctn-11470999	F & N Flavoured Bottle Drink - Cool Ice Cream Soda
+frozen	cream	https://www.fairprice.com.sg/product/hup-seng-special-cream-cracker-10s-225g-11157740	Hup Seng Crackers - Cream (Special)
+frozen	cream	https://www.fairprice.com.sg/product/fairprice-uht-kids-full-cream-packet-milk-freshmilk-24-x-200ml-ctn-12710304	FairPrice UHT Kids Full Cream Packet Milk - FreshMilk
+frozen	cream	https://www.fairprice.com.sg/product/milkmaid-condensed-milk-full-cream-high-calcium-392g-13043358	Milkmaid Sweetened Condensed Milk - Full Cream (High Calcium)
+frozen	cream	https://www.fairprice.com.sg/product/kara-coconut-cream-200ml-91570	Kara UHT Coconut Packet Cream
+frozen	cream	https://www.fairprice.com.sg/product/fairprice-uht-milk-full-cream-1lt-11898581	FairPrice UHT Milk - Full Cream
+frozen	cream	https://www.fairprice.com.sg/product/cif-cream-surface-cleanser-lemon-660g-13195660	Cif Cream Surface Cleanser - Lemon
+frozen	cream	https://www.fairprice.com.sg/product/fairprice-uht-kids-full-cream-packet-milk-fresh-milk-6-x-200ml-13165083	FairPrice UHT Kids Full Cream Packet Milk - Fresh Milk
+frozen	cream	https://www.fairprice.com.sg/product/campbell-s-condensed-soup-cream-of-mushroom-290g-274663	Campbell's Condensed Soup - Cream of Mushroom
+frozen	cream	https://www.fairprice.com.sg/product/magnum-mini-ice-cream-almond-6-x-60ml-13034330	Magnum Mini Ice Cream - Almond
+frozen	cream	https://www.fairprice.com.sg/product/marigold-king-of-kings-premium-evaporated-milk-full-cream-395g-13031760	Marigold Evaporated Milk - King Of Kings (Full Cream)
+frozen	cream	https://www.fairprice.com.sg/product/hup-seng-cream-crackers-428g-12374819	Hup Seng Crackers - Cream
+frozen	dumplings	https://www.fairprice.com.sg/product/tian-tian-mian-dian-dumplings-cabbage-pork-500g-13177581	Tian Tian Mian Dian Dumplings - Cabbage & Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/golden-chef-dumpling-cabbage-pork-400g-13227076	Golden Chef Dumpling - Cabbage & Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/xin-jia-fu-dumpling-chives-pork-500g-13180760	Xin Jia Fu Dumpling - Chives & Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/golden-chef-dumpling-chive-pork-400g-13227077	Golden Chef Dumpling - Chive & Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/nan-xiang-frozen-dumplings-cabbage-pork-400g-13165349	Nan Xiang Frozen Dumplings - Cabbage Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-shrimp-wonton-12s-11208413	CP Shrimp Wonton - Whole Shrimp
+frozen	dumplings	https://www.fairprice.com.sg/product/tian-tian-mian-dian-dumplings-mushroom-pork-500g-13177580	Tian Tian Mian Dian Dumplings - Mushroom & Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/gldn-chef-xiaolongbao-original-500g-13255767	Golden Chef Xiao Long Bao - Original
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-easy-snack-japanese-crispy-gyoza-350g-13087349	CP Easy Snack - Japanese Crispy Gyoza
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-chicken-gyoza-400g-13028047	CP Chicken Gyoza
+frozen	dumplings	https://www.fairprice.com.sg/product/ajinomoto-japanese-style-hane-gyoza-pork-276g-13259651	Ajinomoto Japanese Style Hane Gyoza Pork
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-shrimp-wonton-jumbo-194g-8-per-pack-13096357	CP Shrimp Wonton - Jumbo
+frozen	dumplings	https://www.fairprice.com.sg/product/cj-bibigo-frozen-crispy-dumplings-pork-vegetables-500g-13055241	CJ Bibigo Frozen Crispy Dumplings - Pork & Vegetables
+frozen	dumplings	https://www.fairprice.com.sg/product/cj-bibigo-mandu-vegetables-seafood-805g-13199725	CJ Bibigo Mandu - Vegetables & Seafood
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-pork-chicken-gyoza-suki-sauce-370g-20-per-pack-13065265	CP Pork & Chicken Gyoza - Suki Sauce
+frozen	dumplings	https://www.fairprice.com.sg/product/fairprice-frozen-whole-shrimp-wonton-144g-12-per-pack-12085013	FairPrice Frozen Whole Shrimp Wonton
+frozen	dumplings	https://www.fairprice.com.sg/product/ajinomoto-gyoza-pops-chicken-vegetables-260g-13259709	Ajinomoto Gyoza Pops Chicken & Vegetables
+frozen	dumplings	https://www.fairprice.com.sg/product/gldn-chef-xiaolongbao-s-onion-500g-13255723	Golden Chef Xiao Long Bao - Spring Onion
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-shirmp-wonton-in-tom-yum-soup-126g-13207866	CP Shrimp Wonton - Tom Yum Soup
+frozen	dumplings	https://www.fairprice.com.sg/product/cp-fried-shrimp-wonton-130g-13235029	CP Fried Shrimp Wonton
+frozen	frozen	https://www.fairprice.com.sg/product/seara-freshly-frozen-chicken-legs-boneless-2kg-13176928	Seara Frozen Chicken - Legs (Boneless)
+frozen	frozen	https://www.fairprice.com.sg/product/seara-iqf-chicken-wings-mid-joint-1kg-13204200	Seara IQF Chicken Wings - Mid-Joint
+frozen	frozen	https://www.fairprice.com.sg/product/seara-freshly-frozen-chicken-wings-2kg-13174421	Seara Frozen Chicken Wings
+frozen	frozen	https://www.fairprice.com.sg/product/ocean-fresh-delite-frozen-salmon-portion-500g-13106181	Ocean Fresh Delite Frozen Salmon Portion
+frozen	frozen	https://www.fairprice.com.sg/product/sadia-frozen-chicken-boneless-leg-meat-2kg-10849841	Sadia Frozen Chicken Boneless Leg Meat
+frozen	frozen	https://www.fairprice.com.sg/product/sadia-frozen-chicken-thigh-900g-10785956	Sadia Frozen Chicken Thigh
+frozen	frozen	https://www.fairprice.com.sg/product/sadia-frozen-chicken-drumsticks-900g-10785972	Sadia Frozen Chicken Drumsticks
+frozen	frozen	https://www.fairprice.com.sg/product/seawaves-frozen-premium-cuttlefish-ball-200g-13026839	Seawaves Frozen Premium Cuttlefish Ball
+frozen	frozen	https://www.fairprice.com.sg/product/okeanoss-iqf-shrimp-meat-tail-off-400g-13047093	Okeanoss Frozen IQF Shrimp Meat (Tail Off)
+frozen	frozen	https://www.fairprice.com.sg/product/sadia-frozen-chicken-3-joint-wings-2kg-13242732	Sadia Frozen Chicken - 3 Joint Wings
